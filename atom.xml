@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">木兮bio</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-07-27T21:10:12&#43;08:00</updated>
+    <updated>2020-07-27T21:15:31&#43;08:00</updated>
     <id>bio2o2o/</id>
     <link rel="alternate" type="text/html" href="bio2o2o/" />
     <link rel="self" type="application/atom&#43;xml" href="bio2o2o/atom.xml" />
