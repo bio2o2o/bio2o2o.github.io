@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>木兮bio</title>
-        <link>https://bio2o2o.github.io/</link>
+        <link>/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.74.3 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 27 Jul 2020 21:25:09 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2020 21:26:40 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://bio2o2o.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="/rss.xml" />
         
         
             <item>
                 <title>解决 RHEL 7/ CentOS 7/Fedora 出现Unit iptables.service failed to load</title>
-                <link>https://bio2o2o.github.io/posts/rhel-7-iptables-service/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/rhel-7-iptables-service/</guid>
+                <link>/posts/rhel-7-iptables-service/</link>
+                <guid isPermaLink="true">/posts/rhel-7-iptables-service/</guid>
                 <pubDate>Sun, 29 Mar 2015 12:43:37 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -69,7 +69,7 @@ service iptables [stop|start|restart]
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
+                                    <category domain="/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
                                 
                             
                         
@@ -81,8 +81,8 @@ service iptables [stop|start|restart]
         
             <item>
                 <title>解决VPN服务器出现PTY read or GRE write failed问题</title>
-                <link>https://bio2o2o.github.io/posts/slove-pptpd-vpn-pty-read-or-gre-write-failed/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/slove-pptpd-vpn-pty-read-or-gre-write-failed/</guid>
+                <link>/posts/slove-pptpd-vpn-pty-read-or-gre-write-failed/</link>
+                <guid isPermaLink="true">/posts/slove-pptpd-vpn-pty-read-or-gre-write-failed/</guid>
                 <pubDate>Sun, 29 Mar 2015 12:27:48 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -126,7 +126,7 @@ sudo arp -d -a&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
+                                    <category domain="/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
                                 
                             
                         
@@ -138,8 +138,8 @@ sudo arp -d -a&lt;/pre&gt;
         
             <item>
                 <title>如何在RHEL/Centos/Fedora/下搭建vpn pptp 服务器</title>
-                <link>https://bio2o2o.github.io/posts/install-pptp-vpn-rhel-linux/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/install-pptp-vpn-rhel-linux/</guid>
+                <link>/posts/install-pptp-vpn-rhel-linux/</link>
+                <guid isPermaLink="true">/posts/install-pptp-vpn-rhel-linux/</guid>
                 <pubDate>Sun, 29 Mar 2015 12:16:17 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -236,7 +236,7 @@ chkconfig pptpd on
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
+                                    <category domain="/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
                                 
                             
                         
@@ -248,8 +248,8 @@ chkconfig pptpd on
         
             <item>
                 <title>解决LC IS UPDATE SITEMAP WHEN POST</title>
-                <link>https://bio2o2o.github.io/posts/baidu-sitemap-generator-illegal-string-offset-lc-is-update-sitemap-when-post/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/baidu-sitemap-generator-illegal-string-offset-lc-is-update-sitemap-when-post/</guid>
+                <link>/posts/baidu-sitemap-generator-illegal-string-offset-lc-is-update-sitemap-when-post/</link>
+                <guid isPermaLink="true">/posts/baidu-sitemap-generator-illegal-string-offset-lc-is-update-sitemap-when-post/</guid>
                 <pubDate>Tue, 24 Mar 2015 14:39:44 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -285,7 +285,7 @@ wp_schedule_single_event(time()+10, ‘do_baidu_sitemap_by_post’);
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -297,8 +297,8 @@ wp_schedule_single_event(time()+10, ‘do_baidu_sitemap_by_post’);
         
             <item>
                 <title>Sublime Text 2/3安装与注册及使用</title>
-                <link>https://bio2o2o.github.io/posts/sublime-text-23-install-and-crack-and-use/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/sublime-text-23-install-and-crack-and-use/</guid>
+                <link>/posts/sublime-text-23-install-and-crack-and-use/</link>
+                <guid isPermaLink="true">/posts/sublime-text-23-install-and-crack-and-use/</guid>
                 <pubDate>Sat, 31 May 2014 20:02:05 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -517,7 +517,7 @@ ctrl+`/[View] &amp;gt; [Show Console]
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -529,8 +529,8 @@ ctrl+`/[View] &amp;gt; [Show Console]
         
             <item>
                 <title>plupload图片上传插件的使用</title>
-                <link>https://bio2o2o.github.io/posts/plupload/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/plupload/</guid>
+                <link>/posts/plupload/</link>
+                <guid isPermaLink="true">/posts/plupload/</guid>
                 <pubDate>Wed, 30 Apr 2014 18:05:25 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -694,7 +694,7 @@ ctrl+`/[View] &amp;gt; [Show Console]
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -706,8 +706,8 @@ ctrl+`/[View] &amp;gt; [Show Console]
         
             <item>
                 <title>解决fedora/CentOS下不能挂载NTFS分区</title>
-                <link>https://bio2o2o.github.io/posts/slv-fedora-centos-mount-ntfs-error/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/slv-fedora-centos-mount-ntfs-error/</guid>
+                <link>/posts/slv-fedora-centos-mount-ntfs-error/</link>
+                <guid isPermaLink="true">/posts/slv-fedora-centos-mount-ntfs-error/</guid>
                 <pubDate>Thu, 24 Apr 2014 23:03:11 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -731,7 +731,7 @@ ctrl+`/[View] &amp;gt; [Show Console]
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -743,8 +743,8 @@ ctrl+`/[View] &amp;gt; [Show Console]
         
             <item>
                 <title>php 实时输出显示</title>
-                <link>https://bio2o2o.github.io/posts/php-show-in-time/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/php-show-in-time/</guid>
+                <link>/posts/php-show-in-time/</link>
+                <guid isPermaLink="true">/posts/php-show-in-time/</guid>
                 <pubDate>Thu, 24 Apr 2014 22:52:57 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -783,7 +783,7 @@ for($i=1; $i&amp;lt;=10; $i++)
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -795,8 +795,8 @@ for($i=1; $i&amp;lt;=10; $i++)
         
             <item>
                 <title>linux 通过bind下搭建DNS Server</title>
-                <link>https://bio2o2o.github.io/posts/config-dns-server-on-linux-var-bind/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/config-dns-server-on-linux-var-bind/</guid>
+                <link>/posts/config-dns-server-on-linux-var-bind/</link>
+                <guid isPermaLink="true">/posts/config-dns-server-on-linux-var-bind/</guid>
                 <pubDate>Thu, 24 Apr 2014 22:42:47 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -924,7 +924,7 @@ vkilo.ryan.com
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
+                                    <category domain="/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
                                 
                             
                         
@@ -936,8 +936,8 @@ vkilo.ryan.com
         
             <item>
                 <title>遍历目录文件编码转换</title>
-                <link>https://bio2o2o.github.io/posts/dir-file-iconv/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/dir-file-iconv/</guid>
+                <link>/posts/dir-file-iconv/</link>
+                <guid isPermaLink="true">/posts/dir-file-iconv/</guid>
                 <pubDate>Fri, 11 Apr 2014 11:20:40 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -999,7 +999,7 @@ function tree($directory)
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -1011,8 +1011,8 @@ function tree($directory)
         
             <item>
                 <title>MySQL 编译安装</title>
-                <link>https://bio2o2o.github.io/posts/mysql-compile-on-centos/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/mysql-compile-on-centos/</guid>
+                <link>/posts/mysql-compile-on-centos/</link>
+                <guid isPermaLink="true">/posts/mysql-compile-on-centos/</guid>
                 <pubDate>Fri, 08 Nov 2013 00:19:04 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -1136,7 +1136,7 @@ set storage_engine=MYISAM&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
+                                    <category domain="/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
                                 
                             
                         
@@ -1148,8 +1148,8 @@ set storage_engine=MYISAM&lt;/pre&gt;
         
             <item>
                 <title>top命令使用详解</title>
-                <link>https://bio2o2o.github.io/posts/top-command-in-linux/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/top-command-in-linux/</guid>
+                <link>/posts/top-command-in-linux/</link>
+                <guid isPermaLink="true">/posts/top-command-in-linux/</guid>
                 <pubDate>Sun, 11 Aug 2013 01:02:57 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -1476,7 +1476,7 @@ i 使top不显示任何闲置或者僵死进程。&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
+                                    <category domain="/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
                                 
                             
                         
@@ -1488,8 +1488,8 @@ i 使top不显示任何闲置或者僵死进程。&lt;/p&gt;
         
             <item>
                 <title>魔兽与PHP设计模式</title>
-                <link>https://bio2o2o.github.io/posts/php-design-pattern-with-warcraft/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/php-design-pattern-with-warcraft/</guid>
+                <link>/posts/php-design-pattern-with-warcraft/</link>
+                <guid isPermaLink="true">/posts/php-design-pattern-with-warcraft/</guid>
                 <pubDate>Sat, 03 Aug 2013 00:42:13 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -1869,7 +1869,7 @@ $Ally-&amp;gt;beAttacked(&#39;ORC2&#39;);&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/">编程</category>
+                                    <category domain="/categories/%E7%BC%96%E7%A8%8B/">编程</category>
                                 
                             
                         
@@ -1881,8 +1881,8 @@ $Ally-&amp;gt;beAttacked(&#39;ORC2&#39;);&lt;/pre&gt;
         
             <item>
                 <title>install mail server on centos 5.5</title>
-                <link>https://bio2o2o.github.io/posts/install-mail-server-on-centos-5-5/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/install-mail-server-on-centos-5-5/</guid>
+                <link>/posts/install-mail-server-on-centos-5-5/</link>
+                <guid isPermaLink="true">/posts/install-mail-server-on-centos-5-5/</guid>
                 <pubDate>Sun, 21 Jul 2013 00:24:19 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2054,7 +2054,7 @@ postmap -q john@example.com mysql:/etc/postfix/mysql-virtual-mailbox-maps.cf&lt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
+                                    <category domain="/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
                                 
                             
                         
@@ -2066,8 +2066,8 @@ postmap -q john@example.com mysql:/etc/postfix/mysql-virtual-mailbox-maps.cf&lt;
         
             <item>
                 <title>使用php pdo 连接到mssql sqlsrv</title>
-                <link>https://bio2o2o.github.io/posts/connect-to-mssql-using-php-pdo-sqlsrv/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/connect-to-mssql-using-php-pdo-sqlsrv/</guid>
+                <link>/posts/connect-to-mssql-using-php-pdo-sqlsrv/</link>
+                <guid isPermaLink="true">/posts/connect-to-mssql-using-php-pdo-sqlsrv/</guid>
                 <pubDate>Fri, 19 Jul 2013 20:43:58 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2108,7 +2108,7 @@ $products= $getProducts-&amp;gt;fetchAll(PDO::FETCH_ASSOC);&lt;/pre&gt;&lt;block
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -2120,8 +2120,8 @@ $products= $getProducts-&amp;gt;fetchAll(PDO::FETCH_ASSOC);&lt;/pre&gt;&lt;block
         
             <item>
                 <title>vim 命令与快捷键</title>
-                <link>https://bio2o2o.github.io/posts/vim-quick/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/vim-quick/</guid>
+                <link>/posts/vim-quick/</link>
+                <guid isPermaLink="true">/posts/vim-quick/</guid>
                 <pubDate>Sun, 07 Jul 2013 14:30:35 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2206,7 +2206,7 @@ $products= $getProducts-&amp;gt;fetchAll(PDO::FETCH_ASSOC);&lt;/pre&gt;&lt;block
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
+                                    <category domain="/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
                                 
                             
                         
@@ -2218,8 +2218,8 @@ $products= $getProducts-&amp;gt;fetchAll(PDO::FETCH_ASSOC);&lt;/pre&gt;&lt;block
         
             <item>
                 <title>windows 8 pid 4 system  80 port</title>
-                <link>https://bio2o2o.github.io/posts/windows-8-pid-4-system-80-port/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/windows-8-pid-4-system-80-port/</guid>
+                <link>/posts/windows-8-pid-4-system-80-port/</link>
+                <guid isPermaLink="true">/posts/windows-8-pid-4-system-80-port/</guid>
                 <pubDate>Thu, 04 Jul 2013 10:46:51 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2262,7 +2262,7 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -2274,8 +2274,8 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
         
             <item>
                 <title>article close html tag</title>
-                <link>https://bio2o2o.github.io/posts/article-close-html-tag/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/article-close-html-tag/</guid>
+                <link>/posts/article-close-html-tag/</link>
+                <guid isPermaLink="true">/posts/article-close-html-tag/</guid>
                 <pubDate>Wed, 03 Jul 2013 03:05:21 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2365,7 +2365,7 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -2377,8 +2377,8 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
         
             <item>
                 <title>Samsung I9100 Galaxy S II 最简单root方法</title>
-                <link>https://bio2o2o.github.io/posts/i9100-root-best-solution/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/i9100-root-best-solution/</guid>
+                <link>/posts/i9100-root-best-solution/</link>
+                <guid isPermaLink="true">/posts/i9100-root-best-solution/</guid>
                 <pubDate>Sun, 23 Jun 2013 13:51:05 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2421,7 +2421,7 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/">移动设备</category>
+                                    <category domain="/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/">移动设备</category>
                                 
                             
                         
@@ -2431,19 +2431,19 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/android/">Android</category>
+                                    <category domain="/tags/android/">Android</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/root/">root</category>
+                                    <category domain="/tags/root/">root</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E5%B7%A5%E5%85%B7/">工具</category>
+                                    <category domain="/tags/%E5%B7%A5%E5%85%B7/">工具</category>
                                 
                             
                         
@@ -2453,8 +2453,8 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
         
             <item>
                 <title>PHP error_reporting 设置</title>
-                <link>https://bio2o2o.github.io/posts/php-error-reporting-setting/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/php-error-reporting-setting/</guid>
+                <link>/posts/php-error-reporting-setting/</link>
+                <guid isPermaLink="true">/posts/php-error-reporting-setting/</guid>
                 <pubDate>Fri, 14 Jun 2013 23:55:11 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2492,7 +2492,7 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/">编程</category>
+                                    <category domain="/categories/%E7%BC%96%E7%A8%8B/">编程</category>
                                 
                             
                         
@@ -2504,8 +2504,8 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
         
             <item>
                 <title>24种设计模式与7大原则</title>
-                <link>https://bio2o2o.github.io/posts/24-design-pattern-and-principle-7/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/24-design-pattern-and-principle-7/</guid>
+                <link>/posts/24-design-pattern-and-principle-7/</link>
+                <guid isPermaLink="true">/posts/24-design-pattern-and-principle-7/</guid>
                 <pubDate>Sun, 09 Jun 2013 19:10:36 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2567,7 +2567,7 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/">编程</category>
+                                    <category domain="/categories/%E7%BC%96%E7%A8%8B/">编程</category>
                                 
                             
                         
@@ -2579,8 +2579,8 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
         
             <item>
                 <title>设计模式之PHP单例模式</title>
-                <link>https://bio2o2o.github.io/posts/singleton-of-php-design-patterns/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/singleton-of-php-design-patterns/</guid>
+                <link>/posts/singleton-of-php-design-patterns/</link>
+                <guid isPermaLink="true">/posts/singleton-of-php-design-patterns/</guid>
                 <pubDate>Tue, 14 May 2013 23:30:38 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2640,7 +2640,7 @@ echo Singleton::getInstance()-&amp;gt;aa();&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/">编程</category>
+                                    <category domain="/categories/%E7%BC%96%E7%A8%8B/">编程</category>
                                 
                             
                         
@@ -2652,8 +2652,8 @@ echo Singleton::getInstance()-&amp;gt;aa();&lt;/pre&gt;
         
             <item>
                 <title>Mac 下Nginx的安装教程</title>
-                <link>https://bio2o2o.github.io/posts/install-nginx-server-on-mac-os-x/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/install-nginx-server-on-mac-os-x/</guid>
+                <link>/posts/install-nginx-server-on-mac-os-x/</link>
+                <guid isPermaLink="true">/posts/install-nginx-server-on-mac-os-x/</guid>
                 <pubDate>Tue, 14 May 2013 23:12:49 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2715,7 +2715,7 @@ nginx -s reload&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/">编程</category>
+                                    <category domain="/categories/%E7%BC%96%E7%A8%8B/">编程</category>
                                 
                             
                         
@@ -2727,8 +2727,8 @@ nginx -s reload&lt;/pre&gt;
         
             <item>
                 <title>Mac 下载安装Redis</title>
-                <link>https://bio2o2o.github.io/posts/install-redis-of-nosql-on-mac-os-x/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/install-redis-of-nosql-on-mac-os-x/</guid>
+                <link>/posts/install-redis-of-nosql-on-mac-os-x/</link>
+                <guid isPermaLink="true">/posts/install-redis-of-nosql-on-mac-os-x/</guid>
                 <pubDate>Tue, 14 May 2013 22:49:48 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2789,7 +2789,7 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/">编程</category>
+                                    <category domain="/categories/%E7%BC%96%E7%A8%8B/">编程</category>
                                 
                             
                         
@@ -2801,8 +2801,8 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
         
             <item>
                 <title>Mac下安装MongoDB教程</title>
-                <link>https://bio2o2o.github.io/posts/mac-installing-mongodb-tutorial/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/mac-installing-mongodb-tutorial/</guid>
+                <link>/posts/mac-installing-mongodb-tutorial/</link>
+                <guid isPermaLink="true">/posts/mac-installing-mongodb-tutorial/</guid>
                 <pubDate>Tue, 14 May 2013 21:29:19 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2847,7 +2847,7 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/">编程</category>
+                                    <category domain="/categories/%E7%BC%96%E7%A8%8B/">编程</category>
                                 
                             
                         
@@ -2857,7 +2857,7 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/">数据库</category>
+                                    <category domain="/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/">数据库</category>
                                 
                             
                         
@@ -2867,8 +2867,8 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
         
             <item>
                 <title>IOS 设备忘记root密码怎么找回</title>
-                <link>https://bio2o2o.github.io/posts/ios-recover-root-password/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/ios-recover-root-password/</guid>
+                <link>/posts/ios-recover-root-password/</link>
+                <guid isPermaLink="true">/posts/ios-recover-root-password/</guid>
                 <pubDate>Sun, 24 Feb 2013 18:02:06 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2903,7 +2903,7 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/">移动设备</category>
+                                    <category domain="/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/">移动设备</category>
                                 
                             
                         
@@ -2915,8 +2915,8 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
         
             <item>
                 <title>使用SSH通过USB操控IOS设备</title>
-                <link>https://bio2o2o.github.io/posts/ios-usb-control-var-ssh/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/ios-usb-control-var-ssh/</guid>
+                <link>/posts/ios-usb-control-var-ssh/</link>
+                <guid isPermaLink="true">/posts/ios-usb-control-var-ssh/</guid>
                 <pubDate>Sun, 24 Feb 2013 17:35:00 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -2992,7 +2992,7 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/">移动设备</category>
+                                    <category domain="/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/">移动设备</category>
                                 
                             
                         
@@ -3002,19 +3002,19 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/ios/">ios</category>
+                                    <category domain="/tags/ios/">ios</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/iphone/">iPhone</category>
+                                    <category domain="/tags/iphone/">iPhone</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/ssh/">SSH</category>
+                                    <category domain="/tags/ssh/">SSH</category>
                                 
                             
                         
@@ -3024,8 +3024,8 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
         
             <item>
                 <title>IOS 用Cydia安装软件 出现dpkg return code(1)</title>
-                <link>https://bio2o2o.github.io/posts/ios-dpkg-return-code1/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/ios-dpkg-return-code1/</guid>
+                <link>/posts/ios-dpkg-return-code1/</link>
+                <guid isPermaLink="true">/posts/ios-dpkg-return-code1/</guid>
                 <pubDate>Sun, 24 Feb 2013 16:01:00 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -3051,7 +3051,7 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/">移动设备</category>
+                                    <category domain="/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/">移动设备</category>
                                 
                             
                         
@@ -3061,25 +3061,25 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/cydia/">Cydia</category>
+                                    <category domain="/tags/cydia/">Cydia</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/dpkg-return-code1/">dpkg return code(1)</category>
+                                    <category domain="/tags/dpkg-return-code1/">dpkg return code(1)</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/ios/">ios</category>
+                                    <category domain="/tags/ios/">ios</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/iphone/">iPhone</category>
+                                    <category domain="/tags/iphone/">iPhone</category>
                                 
                             
                         
@@ -3089,8 +3089,8 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
         
             <item>
                 <title>Chrome 中文版字体最小限制</title>
-                <link>https://bio2o2o.github.io/posts/how-to-fix-samplifted-chinese-chrome-smallest-font-limit/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/how-to-fix-samplifted-chinese-chrome-smallest-font-limit/</guid>
+                <link>/posts/how-to-fix-samplifted-chinese-chrome-smallest-font-limit/</link>
+                <guid isPermaLink="true">/posts/how-to-fix-samplifted-chinese-chrome-smallest-font-limit/</guid>
                 <pubDate>Sun, 24 Feb 2013 14:59:00 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -3119,7 +3119,7 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -3129,25 +3129,25 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/chrome/">Chrome</category>
+                                    <category domain="/tags/chrome/">Chrome</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/chrome%E4%B8%AD%E6%96%87%E7%89%88/">Chrome中文版</category>
+                                    <category domain="/tags/chrome%E4%B8%AD%E6%96%87%E7%89%88/">Chrome中文版</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/css/">css</category>
+                                    <category domain="/tags/css/">css</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E5%AD%97%E4%BD%9312px/">字体12px</category>
+                                    <category domain="/tags/%E5%AD%97%E4%BD%9312px/">字体12px</category>
                                 
                             
                         
@@ -3157,8 +3157,8 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
         
             <item>
                 <title>解决goagent 翻墙 在mac os 下的证书错误问题</title>
-                <link>https://bio2o2o.github.io/posts/solved-ssl-error-of-goagent/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/solved-ssl-error-of-goagent/</guid>
+                <link>/posts/solved-ssl-error-of-goagent/</link>
+                <guid isPermaLink="true">/posts/solved-ssl-error-of-goagent/</guid>
                 <pubDate>Mon, 30 Apr 2012 15:43:38 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -3185,7 +3185,7 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
+                                    <category domain="/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
                                 
                             
                         
@@ -3195,37 +3195,37 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/facebook/">facebook</category>
+                                    <category domain="/tags/facebook/">facebook</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/goagent/">goagent</category>
+                                    <category domain="/tags/goagent/">goagent</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/mac-os-twitter/">mac os twitter</category>
+                                    <category domain="/tags/mac-os-twitter/">mac os twitter</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/vpn/">vpn</category>
+                                    <category domain="/tags/vpn/">vpn</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/youtube/">youtube</category>
+                                    <category domain="/tags/youtube/">youtube</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E7%BF%BB%E5%A2%99/">翻墙</category>
+                                    <category domain="/tags/%E7%BF%BB%E5%A2%99/">翻墙</category>
                                 
                             
                         
@@ -3235,8 +3235,8 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
         
             <item>
                 <title>symfony 分页</title>
-                <link>https://bio2o2o.github.io/posts/symfony-pagnation/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/symfony-pagnation/</guid>
+                <link>/posts/symfony-pagnation/</link>
+                <guid isPermaLink="true">/posts/symfony-pagnation/</guid>
                 <pubDate>Wed, 18 Apr 2012 14:16:30 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -3278,7 +3278,7 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -3290,8 +3290,8 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
         
             <item>
                 <title>symfony 测试数据的编写</title>
-                <link>https://bio2o2o.github.io/posts/symfony-how-to-create-test-data/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/symfony-how-to-create-test-data/</guid>
+                <link>/posts/symfony-how-to-create-test-data/</link>
+                <guid isPermaLink="true">/posts/symfony-how-to-create-test-data/</guid>
                 <pubDate>Wed, 11 Apr 2012 13:30:09 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -3414,7 +3414,7 @@ author: { type: string(255), notnull: false }
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/">编程</category>
+                                    <category domain="/categories/%E7%BC%96%E7%A8%8B/">编程</category>
                                 
                             
                         
@@ -3426,8 +3426,8 @@ author: { type: string(255), notnull: false }
         
             <item>
                 <title>zend studio 整合aptana</title>
-                <link>https://bio2o2o.github.io/posts/zend-studio-install-aptana-plugin-offline/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/zend-studio-install-aptana-plugin-offline/</guid>
+                <link>/posts/zend-studio-install-aptana-plugin-offline/</link>
+                <guid isPermaLink="true">/posts/zend-studio-install-aptana-plugin-offline/</guid>
                 <pubDate>Sat, 07 Apr 2012 11:50:28 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -3483,7 +3483,7 @@ author: { type: string(255), notnull: false }
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -3495,8 +3495,8 @@ author: { type: string(255), notnull: false }
         
             <item>
                 <title>symfony 之mod_rewrite配置</title>
-                <link>https://bio2o2o.github.io/posts/symfony-mod-rewrite-setting/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/symfony-mod-rewrite-setting/</guid>
+                <link>/posts/symfony-mod-rewrite-setting/</link>
+                <guid isPermaLink="true">/posts/symfony-mod-rewrite-setting/</guid>
                 <pubDate>Thu, 05 Apr 2012 15:29:56 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -3567,8 +3567,8 @@ author: { type: string(255), notnull: false }
         
             <item>
                 <title>symfony 环境配置</title>
-                <link>https://bio2o2o.github.io/posts/symfony-develop-env-setup/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/symfony-develop-env-setup/</guid>
+                <link>/posts/symfony-develop-env-setup/</link>
+                <guid isPermaLink="true">/posts/symfony-develop-env-setup/</guid>
                 <pubDate>Wed, 04 Apr 2012 15:17:32 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -3642,8 +3642,8 @@ NameVirtualHost *:81
         
             <item>
                 <title>如何让页面自适应大小</title>
-                <link>https://bio2o2o.github.io/posts/css-autosize-page/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/css-autosize-page/</guid>
+                <link>/posts/css-autosize-page/</link>
+                <guid isPermaLink="true">/posts/css-autosize-page/</guid>
                 <pubDate>Tue, 21 Feb 2012 20:45:32 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -3725,7 +3725,7 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -3737,8 +3737,8 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
         
             <item>
                 <title>解决英文版windows出现软件乱码问题</title>
-                <link>https://bio2o2o.github.io/posts/slove-garbled-of-windows-en-edition/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/slove-garbled-of-windows-en-edition/</guid>
+                <link>/posts/slove-garbled-of-windows-en-edition/</link>
+                <guid isPermaLink="true">/posts/slove-garbled-of-windows-en-edition/</guid>
                 <pubDate>Mon, 07 Nov 2011 10:50:00 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -3777,7 +3777,7 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -3787,55 +3787,55 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/win-7/">win 7</category>
+                                    <category domain="/tags/win-7/">win 7</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-xp/">windows xp</category>
+                                    <category domain="/tags/windows-xp/">windows xp</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/xp/">xp</category>
+                                    <category domain="/tags/xp/">xp</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E4%B9%B1%E7%A0%81/">乱码</category>
+                                    <category domain="/tags/%E4%B9%B1%E7%A0%81/">乱码</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E7%B3%BB%E7%BB%9F/">系统</category>
+                                    <category domain="/tags/%E7%B3%BB%E7%BB%9F/">系统</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E8%8B%B1%E6%96%87/">英文</category>
+                                    <category domain="/tags/%E8%8B%B1%E6%96%87/">英文</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E8%8B%B1%E6%96%87%E7%89%88/">英文版</category>
+                                    <category domain="/tags/%E8%8B%B1%E6%96%87%E7%89%88/">英文版</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E8%AE%BE%E7%BD%AE/">设置</category>
+                                    <category domain="/tags/%E8%AE%BE%E7%BD%AE/">设置</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E9%85%8D%E7%BD%AE/">配置</category>
+                                    <category domain="/tags/%E9%85%8D%E7%BD%AE/">配置</category>
                                 
                             
                         
@@ -3845,8 +3845,8 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
         
             <item>
                 <title>ubuntu 下最好的wordpress 发布工具</title>
-                <link>https://bio2o2o.github.io/posts/ubuntu-wordpress-post-tool/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/ubuntu-wordpress-post-tool/</guid>
+                <link>/posts/ubuntu-wordpress-post-tool/</link>
+                <guid isPermaLink="true">/posts/ubuntu-wordpress-post-tool/</guid>
                 <pubDate>Wed, 04 May 2011 12:25:40 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -3868,7 +3868,7 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
+                                    <category domain="/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
                                 
                             
                         
@@ -3878,19 +3878,19 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/ubuntu/">ubuntu</category>
+                                    <category domain="/tags/ubuntu/">ubuntu</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/wordpress/">wordpress</category>
+                                    <category domain="/tags/wordpress/">wordpress</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/wordpress%E5%8F%91%E5%B8%83%E5%B7%A5%E5%85%B7/">wordpress发布工具</category>
+                                    <category domain="/tags/wordpress%E5%8F%91%E5%B8%83%E5%B7%A5%E5%85%B7/">wordpress发布工具</category>
                                 
                             
                         
@@ -3900,8 +3900,8 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
         
             <item>
                 <title>windows 8 已知builds(编译版本)列表及版本详解</title>
-                <link>https://bio2o2o.github.io/posts/windows-8-builds-list/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/windows-8-builds-list/</guid>
+                <link>/posts/windows-8-builds-list/</link>
+                <guid isPermaLink="true">/posts/windows-8-builds-list/</guid>
                 <pubDate>Thu, 28 Apr 2011 22:39:00 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -4132,7 +4132,7 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -4142,43 +4142,43 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/milestone/">milestone</category>
+                                    <category domain="/tags/milestone/">milestone</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/window-8-%E5%B7%B2%E6%B3%84%E9%9C%B2%E7%89%88%E6%9C%AC/">window 8 已泄露版本</category>
+                                    <category domain="/tags/window-8-%E5%B7%B2%E6%B3%84%E9%9C%B2%E7%89%88%E6%9C%AC/">window 8 已泄露版本</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8/">windows 8</category>
+                                    <category domain="/tags/windows-8/">windows 8</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8-beta/">windows 8 beta</category>
+                                    <category domain="/tags/windows-8-beta/">windows 8 beta</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/">windows 8 更新日志</category>
+                                    <category domain="/tags/windows-8-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/">windows 8 更新日志</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC/">windows 8最新版本</category>
+                                    <category domain="/tags/windows-8%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC/">windows 8最新版本</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/window%E4%BC%A0%E8%A8%80/">window传言</category>
+                                    <category domain="/tags/window%E4%BC%A0%E8%A8%80/">window传言</category>
                                 
                             
                         
@@ -4188,8 +4188,8 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
         
             <item>
                 <title>如何开启windows 8的隐藏功能</title>
-                <link>https://bio2o2o.github.io/posts/windows-8-new-feather/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/windows-8-new-feather/</guid>
+                <link>/posts/windows-8-new-feather/</link>
+                <guid isPermaLink="true">/posts/windows-8-new-feather/</guid>
                 <pubDate>Thu, 28 Apr 2011 00:00:00 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -4276,7 +4276,7 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -4286,37 +4286,37 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8/">windows 8</category>
+                                    <category domain="/tags/windows-8/">windows 8</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8-m1-build-7850/">windows 8 M1 build 7850</category>
+                                    <category domain="/tags/windows-8-m1-build-7850/">windows 8 M1 build 7850</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8-m2-build-7955/">windows 8 M2 build 7955</category>
+                                    <category domain="/tags/windows-8-m2-build-7955/">windows 8 M2 build 7955</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8-milestone-2-7955.0.110228-1930/">Windows 8 Milestone-2 (7955.0.110228-1930)</category>
+                                    <category domain="/tags/windows-8-milestone-2-7955.0.110228-1930/">Windows 8 Milestone-2 (7955.0.110228-1930)</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD/">windows 8隐藏功能</category>
+                                    <category domain="/tags/windows-8%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD/">windows 8隐藏功能</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E5%BC%80%E5%90%AFwindows-8%E7%9A%84%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD/">开启windows 8的隐藏功能</category>
+                                    <category domain="/tags/%E5%BC%80%E5%90%AFwindows-8%E7%9A%84%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD/">开启windows 8的隐藏功能</category>
                                 
                             
                         
@@ -4326,8 +4326,8 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
         
             <item>
                 <title>window 8 最新下载地址</title>
-                <link>https://bio2o2o.github.io/posts/window-8-last-download-link/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/window-8-last-download-link/</guid>
+                <link>/posts/window-8-last-download-link/</link>
+                <guid isPermaLink="true">/posts/window-8-last-download-link/</guid>
                 <pubDate>Wed, 27 Apr 2011 23:03:00 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -4361,7 +4361,7 @@ MD5: 99375D7782027CBF2E70F5D0F8648406&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -4371,73 +4371,73 @@ MD5: 99375D7782027CBF2E70F5D0F8648406&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/6.2.7955.0.fbl_sev_wdacxml.110228-1930_x86fre_client-ultimate.iso/">6.2.7955.0.fbl_sev_wdacxml.110228-1930_x86fre_client-ultimate.iso</category>
+                                    <category domain="/tags/6.2.7955.0.fbl_sev_wdacxml.110228-1930_x86fre_client-ultimate.iso/">6.2.7955.0.fbl_sev_wdacxml.110228-1930_x86fre_client-ultimate.iso</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/7955/">7955</category>
+                                    <category domain="/tags/7955/">7955</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/7959/">7959</category>
+                                    <category domain="/tags/7959/">7959</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/window-8-m2/">window 8 M2</category>
+                                    <category domain="/tags/window-8-m2/">window 8 M2</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/window-8-%E4%B8%8B%E8%BD%BD/">window 8 下载</category>
+                                    <category domain="/tags/window-8-%E4%B8%8B%E8%BD%BD/">window 8 下载</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8/">windows 8</category>
+                                    <category domain="/tags/windows-8/">windows 8</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8-6.2.7959/">windows 8 6.2.7959</category>
+                                    <category domain="/tags/windows-8-6.2.7959/">windows 8 6.2.7959</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8-6.2.7959%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/">windows 8 6.2.7959下载地址</category>
+                                    <category domain="/tags/windows-8-6.2.7959%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/">windows 8 6.2.7959下载地址</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8-m1-build-7850/">windows 8 M1 build 7850</category>
+                                    <category domain="/tags/windows-8-m1-build-7850/">windows 8 M1 build 7850</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8-m2-7955%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/">Windows 8 M2 7955下载地址</category>
+                                    <category domain="/tags/windows-8-m2-7955%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/">Windows 8 M2 7955下载地址</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8-m2-build-7955/">windows 8 M2 build 7955</category>
+                                    <category domain="/tags/windows-8-m2-build-7955/">windows 8 M2 build 7955</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows-8-milestone-2-7955.0.110228-1930/">Windows 8 Milestone-2 (7955.0.110228-1930)</category>
+                                    <category domain="/tags/windows-8-milestone-2-7955.0.110228-1930/">Windows 8 Milestone-2 (7955.0.110228-1930)</category>
                                 
                             
                         
@@ -4447,8 +4447,8 @@ MD5: 99375D7782027CBF2E70F5D0F8648406&lt;/p&gt;
         
             <item>
                 <title>最好用的作笔记工具myBase</title>
-                <link>https://bio2o2o.github.io/posts/best-note-tool-mybase/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/best-note-tool-mybase/</guid>
+                <link>/posts/best-note-tool-mybase/</link>
+                <guid isPermaLink="true">/posts/best-note-tool-mybase/</guid>
                 <pubDate>Wed, 02 Mar 2011 22:29:00 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -4474,7 +4474,7 @@ myBase 5.51 汉化文件及注册机下载地址：&lt;a href=&#34;http://u.115.
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -4484,67 +4484,67 @@ myBase 5.51 汉化文件及注册机下载地址：&lt;a href=&#34;http://u.115.
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/mybase/">myBase</category>
+                                    <category domain="/tags/mybase/">myBase</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E4%B8%8B%E8%BD%BD/">下载</category>
+                                    <category domain="/tags/%E4%B8%8B%E8%BD%BD/">下载</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/">下载地址</category>
+                                    <category domain="/tags/%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/">下载地址</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E4%BD%9C%E7%AC%94%E8%AE%B0/">作笔记</category>
+                                    <category domain="/tags/%E4%BD%9C%E7%AC%94%E8%AE%B0/">作笔记</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E5%AE%98%E6%96%B9/">官方</category>
+                                    <category domain="/tags/%E5%AE%98%E6%96%B9/">官方</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E5%B7%A5%E5%85%B7/">工具</category>
+                                    <category domain="/tags/%E5%B7%A5%E5%85%B7/">工具</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%9C%80%E5%A5%BD/">最好</category>
+                                    <category domain="/tags/%E6%9C%80%E5%A5%BD/">最好</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%B1%89%E5%8C%96/">汉化</category>
+                                    <category domain="/tags/%E6%B1%89%E5%8C%96/">汉化</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%B1%89%E5%8C%96%E6%96%87%E4%BB%B6/">汉化文件</category>
+                                    <category domain="/tags/%E6%B1%89%E5%8C%96%E6%96%87%E4%BB%B6/">汉化文件</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%B3%A8%E5%86%8C/">注册</category>
+                                    <category domain="/tags/%E6%B3%A8%E5%86%8C/">注册</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%B3%A8%E5%86%8C%E6%9C%BA/">注册机</category>
+                                    <category domain="/tags/%E6%B3%A8%E5%86%8C%E6%9C%BA/">注册机</category>
                                 
                             
                         
@@ -4554,8 +4554,8 @@ myBase 5.51 汉化文件及注册机下载地址：&lt;a href=&#34;http://u.115.
         
             <item>
                 <title>最新php环境apache&#43;php&#43;mysql配置</title>
-                <link>https://bio2o2o.github.io/posts/how-to-install-apache-php-mysql-on-windows/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/how-to-install-apache-php-mysql-on-windows/</guid>
+                <link>/posts/how-to-install-apache-php-mysql-on-windows/</link>
+                <guid isPermaLink="true">/posts/how-to-install-apache-php-mysql-on-windows/</guid>
                 <pubDate>Wed, 16 Feb 2011 17:34:00 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -4693,7 +4693,7 @@ mysql_close();    &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
+                                    <category domain="/categories/linux%E7%B3%BB%E7%BB%9F/">Linux系统</category>
                                 
                             
                         
@@ -4703,43 +4703,43 @@ mysql_close();    &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/apache-php-mysql/">apache&#43;php&#43;mysql</category>
+                                    <category domain="/tags/apache-php-mysql/">apache&#43;php&#43;mysql</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/mysql/">mysql</category>
+                                    <category domain="/tags/mysql/">mysql</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/php/">php</category>
+                                    <category domain="/tags/php/">php</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/phpmyadmin/">phpMyAdmin</category>
+                                    <category domain="/tags/phpmyadmin/">phpMyAdmin</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/">下载地址</category>
+                                    <category domain="/tags/%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/">下载地址</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%9C%80%E6%96%B0/">最新</category>
+                                    <category domain="/tags/%E6%9C%80%E6%96%B0/">最新</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%9C%80%E6%96%B0php%E7%8E%AF%E5%A2%83/">最新php环境</category>
+                                    <category domain="/tags/%E6%9C%80%E6%96%B0php%E7%8E%AF%E5%A2%83/">最新php环境</category>
                                 
                             
                         
@@ -4749,8 +4749,8 @@ mysql_close();    &lt;br&gt;
         
             <item>
                 <title>解决a disk read error occured  press ctrl&#43;alt&#43;alt to restart</title>
-                <link>https://bio2o2o.github.io/posts/solve-a-disk-read-occured/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/solve-a-disk-read-occured/</guid>
+                <link>/posts/solve-a-disk-read-occured/</link>
+                <guid isPermaLink="true">/posts/solve-a-disk-read-occured/</guid>
                 <pubDate>Thu, 23 Dec 2010 22:20:16 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -4774,7 +4774,7 @@ mysql_close();    &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -4784,19 +4784,19 @@ mysql_close();    &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/a-disk-read-error-occured/">a disk read error occured</category>
+                                    <category domain="/tags/a-disk-read-error-occured/">a disk read error occured</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/a-disk-read-error-occured-press-ctrl-alt-alt-to-restart%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/">a disk read error occured press ctrl&#43;alt&#43;alt to restart的解决方法</category>
+                                    <category domain="/tags/a-disk-read-error-occured-press-ctrl-alt-alt-to-restart%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/">a disk read error occured press ctrl&#43;alt&#43;alt to restart的解决方法</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E8%A7%A3%E5%86%B3a-disk-read/">解决a disk read</category>
+                                    <category domain="/tags/%E8%A7%A3%E5%86%B3a-disk-read/">解决a disk read</category>
                                 
                             
                         
@@ -4806,8 +4806,8 @@ mysql_close();    &lt;br&gt;
         
             <item>
                 <title>wordpress更换域名及设置方法</title>
-                <link>https://bio2o2o.github.io/posts/wordpress-change-domain/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/wordpress-change-domain/</guid>
+                <link>/posts/wordpress-change-domain/</link>
+                <guid isPermaLink="true">/posts/wordpress-change-domain/</guid>
                 <pubDate>Thu, 23 Dec 2010 22:03:14 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -4861,7 +4861,7 @@ exit();
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -4871,13 +4871,13 @@ exit();
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/wordpress%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E5%9F%9F%E5%90%8D/">wordpress如何更换域名</category>
+                                    <category domain="/tags/wordpress%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E5%9F%9F%E5%90%8D/">wordpress如何更换域名</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/wordpress%E6%8D%A2%E5%9F%9F%E5%90%8D%E5%AE%8C%E7%BE%8E301%E9%87%8D%E5%AE%9A%E5%90%91/">wordpress换域名完美301重定向</category>
+                                    <category domain="/tags/wordpress%E6%8D%A2%E5%9F%9F%E5%90%8D%E5%AE%8C%E7%BE%8E301%E9%87%8D%E5%AE%9A%E5%90%91/">wordpress换域名完美301重定向</category>
                                 
                             
                         
@@ -4887,8 +4887,8 @@ exit();
         
             <item>
                 <title>firefox内存及资源优化</title>
-                <link>https://bio2o2o.github.io/posts/firefox-memory-optimization/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/firefox-memory-optimization/</guid>
+                <link>/posts/firefox-memory-optimization/</link>
+                <guid isPermaLink="true">/posts/firefox-memory-optimization/</guid>
                 <pubDate>Thu, 23 Dec 2010 21:43:00 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -4945,7 +4945,7 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -4955,19 +4955,19 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/firefox/">firefox</category>
+                                    <category domain="/tags/firefox/">firefox</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/firefox%E4%BC%98%E5%8C%96/">firefox优化</category>
+                                    <category domain="/tags/firefox%E4%BC%98%E5%8C%96/">firefox优化</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/firefox%E5%86%85%E5%AD%98%E9%97%AE%E9%A2%98/">firefox内存问题</category>
+                                    <category domain="/tags/firefox%E5%86%85%E5%AD%98%E9%97%AE%E9%A2%98/">firefox内存问题</category>
                                 
                             
                         
@@ -4977,8 +4977,8 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
         
             <item>
                 <title>最新802.1xclient万能联想客户端下载</title>
-                <link>https://bio2o2o.github.io/posts/802-1xclient-last-down/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/802-1xclient-last-down/</guid>
+                <link>/posts/802-1xclient-last-down/</link>
+                <guid isPermaLink="true">/posts/802-1xclient-last-down/</guid>
                 <pubDate>Fri, 17 Dec 2010 14:09:00 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -5000,7 +5000,7 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -5010,31 +5010,31 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/802.1xclient%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AFfor-linux/">802.1xclient联想客户端for linux</category>
+                                    <category domain="/tags/802.1xclient%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AFfor-linux/">802.1xclient联想客户端for linux</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/802.1xclient%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AFfor-mac-os-x/">802.1xclient联想客户端for mac os x</category>
+                                    <category domain="/tags/802.1xclient%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AFfor-mac-os-x/">802.1xclient联想客户端for mac os x</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%9C%80%E6%96%B0802.1xclient%E4%B8%8B%E8%BD%BD/">最新802.1xclient下载</category>
+                                    <category domain="/tags/%E6%9C%80%E6%96%B0802.1xclient%E4%B8%8B%E8%BD%BD/">最新802.1xclient下载</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%9C%80%E6%96%B0%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD/">最新联想客户端下载</category>
+                                    <category domain="/tags/%E6%9C%80%E6%96%B0%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD/">最新联想客户端下载</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AFfor-win-7-x64/">联想客户端for win 7 x64</category>
+                                    <category domain="/tags/%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AFfor-win-7-x64/">联想客户端for win 7 x64</category>
                                 
                             
                         
@@ -5044,8 +5044,8 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
         
             <item>
                 <title>修改wordpress密码的最好办法</title>
-                <link>https://bio2o2o.github.io/posts/wordpress-move-host/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/wordpress-move-host/</guid>
+                <link>/posts/wordpress-move-host/</link>
+                <guid isPermaLink="true">/posts/wordpress-move-host/</guid>
                 <pubDate>Tue, 14 Dec 2010 11:50:16 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -5087,7 +5087,7 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -5097,25 +5097,25 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/wordpress%E5%AF%86%E7%A0%81/">wordpress密码</category>
+                                    <category domain="/tags/wordpress%E5%AF%86%E7%A0%81/">wordpress密码</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E4%BF%AE%E6%94%B9wordpress%E5%AF%86%E7%A0%81/">修改wordpress密码</category>
+                                    <category domain="/tags/%E4%BF%AE%E6%94%B9wordpress%E5%AF%86%E7%A0%81/">修改wordpress密码</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E4%BF%AE%E6%94%B9wordpress%E5%AF%86%E7%A0%81%E6%BA%90%E7%A0%81/">修改wordpress密码源码</category>
+                                    <category domain="/tags/%E4%BF%AE%E6%94%B9wordpress%E5%AF%86%E7%A0%81%E6%BA%90%E7%A0%81/">修改wordpress密码源码</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E4%BF%AE%E6%94%B9wordpress%E5%AF%86%E7%A0%81%E7%9A%84%E6%9C%80%E5%A5%BD%E5%8A%9E%E6%B3%95/">修改wordpress密码的最好办法</category>
+                                    <category domain="/tags/%E4%BF%AE%E6%94%B9wordpress%E5%AF%86%E7%A0%81%E7%9A%84%E6%9C%80%E5%A5%BD%E5%8A%9E%E6%B3%95/">修改wordpress密码的最好办法</category>
                                 
                             
                         
@@ -5125,8 +5125,8 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
         
             <item>
                 <title>phpMyAdmin – 错误 无法在发生错误时创建会话，请检查 PHP 或网站服务器日志，并正确配置 PHP 安装。</title>
-                <link>https://bio2o2o.github.io/posts/phpmyadmin-2002-error/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/phpmyadmin-2002-error/</guid>
+                <link>/posts/phpmyadmin-2002-error/</link>
+                <guid isPermaLink="true">/posts/phpmyadmin-2002-error/</guid>
                 <pubDate>Sat, 04 Dec 2010 09:53:57 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -5150,7 +5150,7 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -5160,25 +5160,25 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/phpmyadmin/">phpMyAdmin</category>
+                                    <category domain="/tags/phpmyadmin/">phpMyAdmin</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/phpmyadmin%E9%94%99%E8%AF%AF/">phpMyAdmin错误</category>
+                                    <category domain="/tags/phpmyadmin%E9%94%99%E8%AF%AF/">phpMyAdmin错误</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%97%A0%E6%B3%95%E5%9C%A8%E5%8F%91%E7%94%9F%E9%94%99%E8%AF%AF%E6%97%B6%E5%88%9B%E5%BB%BA%E4%BC%9A%E8%AF%9D/">无法在发生错误时创建会话</category>
+                                    <category domain="/tags/%E6%97%A0%E6%B3%95%E5%9C%A8%E5%8F%91%E7%94%9F%E9%94%99%E8%AF%AF%E6%97%B6%E5%88%9B%E5%BB%BA%E4%BC%9A%E8%AF%9D/">无法在发生错误时创建会话</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E8%AF%B7%E6%A3%80%E6%9F%A5-php-%E6%88%96%E7%BD%91%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%97%A5%E5%BF%97/">请检查 PHP 或网站服务器日志</category>
+                                    <category domain="/tags/%E8%AF%B7%E6%A3%80%E6%9F%A5-php-%E6%88%96%E7%BD%91%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%97%A5%E5%BF%97/">请检查 PHP 或网站服务器日志</category>
                                 
                             
                         
@@ -5188,8 +5188,8 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
         
             <item>
                 <title>最好用的硬盘分区工具，Acronis Disk Director Suite下载</title>
-                <link>https://bio2o2o.github.io/posts/best-disk-tool-for-windows/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/best-disk-tool-for-windows/</guid>
+                <link>/posts/best-disk-tool-for-windows/</link>
+                <guid isPermaLink="true">/posts/best-disk-tool-for-windows/</guid>
                 <pubDate>Tue, 16 Nov 2010 17:11:53 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -5262,7 +5262,7 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -5272,31 +5272,31 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/acronis-disk-director-suite%E4%B8%8B%E8%BD%BD/">Acronis Disk Director Suite下载</category>
+                                    <category domain="/tags/acronis-disk-director-suite%E4%B8%8B%E8%BD%BD/">Acronis Disk Director Suite下载</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/acronis-disk-director-suite%E6%B3%A8%E5%86%8C%E7%A0%81/">Acronis Disk Director Suite注册码</category>
+                                    <category domain="/tags/acronis-disk-director-suite%E6%B3%A8%E5%86%8C%E7%A0%81/">Acronis Disk Director Suite注册码</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/acronis-disk-director-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/">Acronis Disk Director 使用教程</category>
+                                    <category domain="/tags/acronis-disk-director-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/">Acronis Disk Director 使用教程</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E7%A1%AC%E7%9B%98%E5%88%86%E5%8C%BA%E5%B7%A5%E5%85%B7/">最好用的硬盘分区工具</category>
+                                    <category domain="/tags/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E7%A1%AC%E7%9B%98%E5%88%86%E5%8C%BA%E5%B7%A5%E5%85%B7/">最好用的硬盘分区工具</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%B3%A8%E5%86%8C%E6%9C%BA/">注册机</category>
+                                    <category domain="/tags/%E6%B3%A8%E5%86%8C%E6%9C%BA/">注册机</category>
                                 
                             
                         
@@ -5306,8 +5306,8 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
         
             <item>
                 <title>域名记录详解 DNS记录详解 免费域名解析服务推荐</title>
-                <link>https://bio2o2o.github.io/posts/dns-record-detail/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/dns-record-detail/</guid>
+                <link>/posts/dns-record-detail/</link>
+                <guid isPermaLink="true">/posts/dns-record-detail/</guid>
                 <pubDate>Sun, 14 Nov 2010 11:06:35 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -5353,7 +5353,7 @@ Jim IN TXT &amp;quot;contact: &lt;a href=&#34;mailto:abc@mailserver.com&#34;&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -5363,43 +5363,43 @@ Jim IN TXT &amp;quot;contact: &lt;a href=&#34;mailto:abc@mailserver.com&#34;&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/dns%E8%AE%B0%E5%BD%95/">dns记录</category>
+                                    <category domain="/tags/dns%E8%AE%B0%E5%BD%95/">dns记录</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/">免费域名</category>
+                                    <category domain="/tags/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/">免费域名</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E5%9F%9F%E5%90%8D/">域名</category>
+                                    <category domain="/tags/%E5%9F%9F%E5%90%8D/">域名</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E6%9C%8D%E5%8A%A1/">域名解析服务</category>
+                                    <category domain="/tags/%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E6%9C%8D%E5%8A%A1/">域名解析服务</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E5%9F%9F%E5%90%8D%E8%AE%B0%E5%BD%95/">域名记录</category>
+                                    <category domain="/tags/%E5%9F%9F%E5%90%8D%E8%AE%B0%E5%BD%95/">域名记录</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E5%AD%90%E5%9F%9F%E5%90%8D/">子域名</category>
+                                    <category domain="/tags/%E5%AD%90%E5%9F%9F%E5%90%8D/">子域名</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E6%8E%A8%E8%8D%90/">推荐</category>
+                                    <category domain="/tags/%E6%8E%A8%E8%8D%90/">推荐</category>
                                 
                             
                         
@@ -5409,8 +5409,8 @@ Jim IN TXT &amp;quot;contact: &lt;a href=&#34;mailto:abc@mailserver.com&#34;&gt;
         
             <item>
                 <title>常用快捷键</title>
-                <link>https://bio2o2o.github.io/posts/key-map-for-windows/</link>
-                <guid isPermaLink="true">https://bio2o2o.github.io/posts/key-map-for-windows/</guid>
+                <link>/posts/key-map-for-windows/</link>
+                <guid isPermaLink="true">/posts/key-map-for-windows/</guid>
                 <pubDate>Sat, 13 Nov 2010 12:44:28 &#43;0000</pubDate>
                 
                     <author>vkilo@icloud.com (木兮bio)</author>
@@ -5505,7 +5505,7 @@ Jim IN TXT &amp;quot;contact: &lt;a href=&#34;mailto:abc@mailserver.com&#34;&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
+                                    <category domain="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/">笔记分享</category>
                                 
                             
                         
@@ -5515,19 +5515,19 @@ Jim IN TXT &amp;quot;contact: &lt;a href=&#34;mailto:abc@mailserver.com&#34;&gt;
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/windows7/">windows7</category>
+                                    <category domain="/tags/windows7/">windows7</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E5%B8%B8%E7%94%A8/">常用</category>
+                                    <category domain="/tags/%E5%B8%B8%E7%94%A8/">常用</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://bio2o2o.github.io/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/">快捷键</category>
+                                    <category domain="/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/">快捷键</category>
                                 
                             
                         

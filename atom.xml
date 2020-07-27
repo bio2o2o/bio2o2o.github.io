@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">木兮bio</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-07-27T21:25:09&#43;08:00</updated>
-    <id>https://bio2o2o.github.io/</id>
-    <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://bio2o2o.github.io/atom.xml" />
+    <updated>2020-07-27T21:26:40&#43;08:00</updated>
+    <id>/</id>
+    <link rel="alternate" type="text/html" href="/" />
+    <link rel="self" type="application/atom&#43;xml" href="/atom.xml" />
     <author>
             <name>木兮bio</name>
-            <uri>https://bio2o2o.github.io/</uri>
+            <uri>/</uri>
             
                 <email>vkilo@icloud.com</email>
             </author>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
         <entry>
             <title type="text">解决 RHEL 7/ CentOS 7/Fedora 出现Unit iptables.service failed to load</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/rhel-7-iptables-service/" />
-            <id>https://bio2o2o.github.io/posts/rhel-7-iptables-service/</id>
+            <link rel="alternate" type="text/html" href="/posts/rhel-7-iptables-service/" />
+            <id>/posts/rhel-7-iptables-service/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2015-03-29T12:43:37&#43;00:00</published>
             <author>
@@ -63,7 +63,7 @@ service iptables [stop|start|restart]
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
+                                <category scheme="/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
                             
                         
                     
@@ -75,8 +75,8 @@ service iptables [stop|start|restart]
     
         <entry>
             <title type="text">解决VPN服务器出现PTY read or GRE write failed问题</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/slove-pptpd-vpn-pty-read-or-gre-write-failed/" />
-            <id>https://bio2o2o.github.io/posts/slove-pptpd-vpn-pty-read-or-gre-write-failed/</id>
+            <link rel="alternate" type="text/html" href="/posts/slove-pptpd-vpn-pty-read-or-gre-write-failed/" />
+            <id>/posts/slove-pptpd-vpn-pty-read-or-gre-write-failed/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2015-03-29T12:27:48&#43;00:00</published>
             <author>
@@ -124,7 +124,7 @@ sudo arp -d -a&lt;/pre&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
+                                <category scheme="/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
                             
                         
                     
@@ -136,8 +136,8 @@ sudo arp -d -a&lt;/pre&gt;
     
         <entry>
             <title type="text">如何在RHEL/Centos/Fedora/下搭建vpn pptp 服务器</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/install-pptp-vpn-rhel-linux/" />
-            <id>https://bio2o2o.github.io/posts/install-pptp-vpn-rhel-linux/</id>
+            <link rel="alternate" type="text/html" href="/posts/install-pptp-vpn-rhel-linux/" />
+            <id>/posts/install-pptp-vpn-rhel-linux/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2015-03-29T12:16:17&#43;00:00</published>
             <author>
@@ -242,7 +242,7 @@ chkconfig pptpd on
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
+                                <category scheme="/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
                             
                         
                     
@@ -254,8 +254,8 @@ chkconfig pptpd on
     
         <entry>
             <title type="text">解决LC IS UPDATE SITEMAP WHEN POST</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/baidu-sitemap-generator-illegal-string-offset-lc-is-update-sitemap-when-post/" />
-            <id>https://bio2o2o.github.io/posts/baidu-sitemap-generator-illegal-string-offset-lc-is-update-sitemap-when-post/</id>
+            <link rel="alternate" type="text/html" href="/posts/baidu-sitemap-generator-illegal-string-offset-lc-is-update-sitemap-when-post/" />
+            <id>/posts/baidu-sitemap-generator-illegal-string-offset-lc-is-update-sitemap-when-post/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2015-03-24T14:39:44&#43;00:00</published>
             <author>
@@ -296,7 +296,7 @@ wp_schedule_single_event(time()+10, ‘do_baidu_sitemap_by_post’);
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -308,8 +308,8 @@ wp_schedule_single_event(time()+10, ‘do_baidu_sitemap_by_post’);
     
         <entry>
             <title type="text">Sublime Text 2/3安装与注册及使用</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/sublime-text-23-install-and-crack-and-use/" />
-            <id>https://bio2o2o.github.io/posts/sublime-text-23-install-and-crack-and-use/</id>
+            <link rel="alternate" type="text/html" href="/posts/sublime-text-23-install-and-crack-and-use/" />
+            <id>/posts/sublime-text-23-install-and-crack-and-use/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2014-05-31T20:02:05&#43;00:00</published>
             <author>
@@ -533,7 +533,7 @@ ctrl+`/[View] &amp;gt; [Show Console]
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -545,8 +545,8 @@ ctrl+`/[View] &amp;gt; [Show Console]
     
         <entry>
             <title type="text">plupload图片上传插件的使用</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/plupload/" />
-            <id>https://bio2o2o.github.io/posts/plupload/</id>
+            <link rel="alternate" type="text/html" href="/posts/plupload/" />
+            <id>/posts/plupload/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2014-04-30T18:05:25&#43;00:00</published>
             <author>
@@ -715,7 +715,7 @@ plupload特性  Plupload使用jQuery的组件做为选择文件和上传文件�
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -727,8 +727,8 @@ plupload特性  Plupload使用jQuery的组件做为选择文件和上传文件�
     
         <entry>
             <title type="text">解决fedora/CentOS下不能挂载NTFS分区</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/slv-fedora-centos-mount-ntfs-error/" />
-            <id>https://bio2o2o.github.io/posts/slv-fedora-centos-mount-ntfs-error/</id>
+            <link rel="alternate" type="text/html" href="/posts/slv-fedora-centos-mount-ntfs-error/" />
+            <id>/posts/slv-fedora-centos-mount-ntfs-error/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2014-04-24T23:03:11&#43;00:00</published>
             <author>
@@ -757,7 +757,7 @@ plupload特性  Plupload使用jQuery的组件做为选择文件和上传文件�
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -769,8 +769,8 @@ plupload特性  Plupload使用jQuery的组件做为选择文件和上传文件�
     
         <entry>
             <title type="text">php 实时输出显示</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/php-show-in-time/" />
-            <id>https://bio2o2o.github.io/posts/php-show-in-time/</id>
+            <link rel="alternate" type="text/html" href="/posts/php-show-in-time/" />
+            <id>/posts/php-show-in-time/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2014-04-24T22:52:57&#43;00:00</published>
             <author>
@@ -813,7 +813,7 @@ for($i=1; $i&amp;lt;=10; $i++)
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -825,8 +825,8 @@ for($i=1; $i&amp;lt;=10; $i++)
     
         <entry>
             <title type="text">linux 通过bind下搭建DNS Server</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/config-dns-server-on-linux-var-bind/" />
-            <id>https://bio2o2o.github.io/posts/config-dns-server-on-linux-var-bind/</id>
+            <link rel="alternate" type="text/html" href="/posts/config-dns-server-on-linux-var-bind/" />
+            <id>/posts/config-dns-server-on-linux-var-bind/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2014-04-24T22:42:47&#43;00:00</published>
             <author>
@@ -962,7 +962,7 @@ vkilo.ryan.com
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
+                                <category scheme="/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
                             
                         
                     
@@ -974,8 +974,8 @@ vkilo.ryan.com
     
         <entry>
             <title type="text">遍历目录文件编码转换</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/dir-file-iconv/" />
-            <id>https://bio2o2o.github.io/posts/dir-file-iconv/</id>
+            <link rel="alternate" type="text/html" href="/posts/dir-file-iconv/" />
+            <id>/posts/dir-file-iconv/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2014-04-11T11:20:40&#43;00:00</published>
             <author>
@@ -1041,7 +1041,7 @@ function tree($directory)
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -1053,8 +1053,8 @@ function tree($directory)
     
         <entry>
             <title type="text">MySQL 编译安装</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/mysql-compile-on-centos/" />
-            <id>https://bio2o2o.github.io/posts/mysql-compile-on-centos/</id>
+            <link rel="alternate" type="text/html" href="/posts/mysql-compile-on-centos/" />
+            <id>/posts/mysql-compile-on-centos/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-11-08T00:19:04&#43;00:00</published>
             <author>
@@ -1185,7 +1185,7 @@ set storage_engine=MYISAM&lt;/pre&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
+                                <category scheme="/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
                             
                         
                     
@@ -1197,8 +1197,8 @@ set storage_engine=MYISAM&lt;/pre&gt;
     
         <entry>
             <title type="text">top命令使用详解</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/top-command-in-linux/" />
-            <id>https://bio2o2o.github.io/posts/top-command-in-linux/</id>
+            <link rel="alternate" type="text/html" href="/posts/top-command-in-linux/" />
+            <id>/posts/top-command-in-linux/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-08-11T01:02:57&#43;00:00</published>
             <author>
@@ -1531,7 +1531,7 @@ i 使top不显示任何闲置或者僵死进程。&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
+                                <category scheme="/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
                             
                         
                     
@@ -1543,8 +1543,8 @@ i 使top不显示任何闲置或者僵死进程。&lt;/p&gt;
     
         <entry>
             <title type="text">魔兽与PHP设计模式</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/php-design-pattern-with-warcraft/" />
-            <id>https://bio2o2o.github.io/posts/php-design-pattern-with-warcraft/</id>
+            <link rel="alternate" type="text/html" href="/posts/php-design-pattern-with-warcraft/" />
+            <id>/posts/php-design-pattern-with-warcraft/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-08-03T00:42:13&#43;00:00</published>
             <author>
@@ -1931,7 +1931,7 @@ $Ally-&amp;gt;beAttacked(&#39;ORC2&#39;);&lt;/pre&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
+                                <category scheme="/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
                             
                         
                     
@@ -1943,8 +1943,8 @@ $Ally-&amp;gt;beAttacked(&#39;ORC2&#39;);&lt;/pre&gt;
     
         <entry>
             <title type="text">install mail server on centos 5.5</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/install-mail-server-on-centos-5-5/" />
-            <id>https://bio2o2o.github.io/posts/install-mail-server-on-centos-5-5/</id>
+            <link rel="alternate" type="text/html" href="/posts/install-mail-server-on-centos-5-5/" />
+            <id>/posts/install-mail-server-on-centos-5-5/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-07-21T00:24:19&#43;00:00</published>
             <author>
@@ -2119,7 +2119,7 @@ postmap -q john@example.com mysql:/etc/postfix/mysql-virtual-mailbox-maps.cf&lt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
+                                <category scheme="/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
                             
                         
                     
@@ -2131,8 +2131,8 @@ postmap -q john@example.com mysql:/etc/postfix/mysql-virtual-mailbox-maps.cf&lt;
     
         <entry>
             <title type="text">使用php pdo 连接到mssql sqlsrv</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/connect-to-mssql-using-php-pdo-sqlsrv/" />
-            <id>https://bio2o2o.github.io/posts/connect-to-mssql-using-php-pdo-sqlsrv/</id>
+            <link rel="alternate" type="text/html" href="/posts/connect-to-mssql-using-php-pdo-sqlsrv/" />
+            <id>/posts/connect-to-mssql-using-php-pdo-sqlsrv/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-07-19T20:43:58&#43;00:00</published>
             <author>
@@ -2178,7 +2178,7 @@ $products= $getProducts-&amp;gt;fetchAll(PDO::FETCH_ASSOC);&lt;/pre&gt;&lt;block
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -2190,8 +2190,8 @@ $products= $getProducts-&amp;gt;fetchAll(PDO::FETCH_ASSOC);&lt;/pre&gt;&lt;block
     
         <entry>
             <title type="text">vim 命令与快捷键</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/vim-quick/" />
-            <id>https://bio2o2o.github.io/posts/vim-quick/</id>
+            <link rel="alternate" type="text/html" href="/posts/vim-quick/" />
+            <id>/posts/vim-quick/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-07-07T14:30:35&#43;00:00</published>
             <author>
@@ -2312,7 +2312,7 @@ D:删除光标所在到行首的
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
+                                <category scheme="/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
                             
                         
                     
@@ -2324,8 +2324,8 @@ D:删除光标所在到行首的
     
         <entry>
             <title type="text">windows 8 pid 4 system  80 port</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/windows-8-pid-4-system-80-port/" />
-            <id>https://bio2o2o.github.io/posts/windows-8-pid-4-system-80-port/</id>
+            <link rel="alternate" type="text/html" href="/posts/windows-8-pid-4-system-80-port/" />
+            <id>/posts/windows-8-pid-4-system-80-port/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-07-04T10:46:51&#43;00:00</published>
             <author>
@@ -2372,7 +2372,7 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -2384,8 +2384,8 @@ Do not kill that process! If you do you will get a blue screen of death (BSOD). 
     
         <entry>
             <title type="text">article close html tag</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/article-close-html-tag/" />
-            <id>https://bio2o2o.github.io/posts/article-close-html-tag/</id>
+            <link rel="alternate" type="text/html" href="/posts/article-close-html-tag/" />
+            <id>/posts/article-close-html-tag/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-07-03T03:05:21&#43;00:00</published>
             <author>
@@ -2479,7 +2479,7 @@ function CloseTags($html) { // strip fraction of open or close tag from end (e.g
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -2491,8 +2491,8 @@ function CloseTags($html) { // strip fraction of open or close tag from end (e.g
     
         <entry>
             <title type="text">Samsung I9100 Galaxy S II 最简单root方法</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/i9100-root-best-solution/" />
-            <id>https://bio2o2o.github.io/posts/i9100-root-best-solution/</id>
+            <link rel="alternate" type="text/html" href="/posts/i9100-root-best-solution/" />
+            <id>/posts/i9100-root-best-solution/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-06-23T13:51:05&#43;00:00</published>
             <author>
@@ -2554,7 +2554,7 @@ adb sideload CWM-SuperSU-v0.97.zip 这里确保CWM-SuperSU-v0.97.zip 与adb.exe�
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/" term="移动设备" label="移动设备" />
+                                <category scheme="/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/" term="移动设备" label="移动设备" />
                             
                         
                     
@@ -2564,19 +2564,19 @@ adb sideload CWM-SuperSU-v0.97.zip 这里确保CWM-SuperSU-v0.97.zip 与adb.exe�
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/android/" term="Android" label="Android" />
+                                <category scheme="/tags/android/" term="Android" label="Android" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/root/" term="root" label="root" />
+                                <category scheme="/tags/root/" term="root" label="root" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E5%B7%A5%E5%85%B7/" term="工具" label="工具" />
+                                <category scheme="/tags/%E5%B7%A5%E5%85%B7/" term="工具" label="工具" />
                             
                         
                     
@@ -2586,8 +2586,8 @@ adb sideload CWM-SuperSU-v0.97.zip 这里确保CWM-SuperSU-v0.97.zip 与adb.exe�
     
         <entry>
             <title type="text">PHP error_reporting 设置</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/php-error-reporting-setting/" />
-            <id>https://bio2o2o.github.io/posts/php-error-reporting-setting/</id>
+            <link rel="alternate" type="text/html" href="/posts/php-error-reporting-setting/" />
+            <id>/posts/php-error-reporting-setting/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-06-14T23:55:11&#43;00:00</published>
             <author>
@@ -2631,7 +2631,7 @@ adb sideload CWM-SuperSU-v0.97.zip 这里确保CWM-SuperSU-v0.97.zip 与adb.exe�
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
+                                <category scheme="/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
                             
                         
                     
@@ -2643,8 +2643,8 @@ adb sideload CWM-SuperSU-v0.97.zip 这里确保CWM-SuperSU-v0.97.zip 与adb.exe�
     
         <entry>
             <title type="text">24种设计模式与7大原则</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/24-design-pattern-and-principle-7/" />
-            <id>https://bio2o2o.github.io/posts/24-design-pattern-and-principle-7/</id>
+            <link rel="alternate" type="text/html" href="/posts/24-design-pattern-and-principle-7/" />
+            <id>/posts/24-design-pattern-and-principle-7/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-06-09T19:10:36&#43;00:00</published>
             <author>
@@ -2709,7 +2709,7 @@ adb sideload CWM-SuperSU-v0.97.zip 这里确保CWM-SuperSU-v0.97.zip 与adb.exe�
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
+                                <category scheme="/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
                             
                         
                     
@@ -2721,8 +2721,8 @@ adb sideload CWM-SuperSU-v0.97.zip 这里确保CWM-SuperSU-v0.97.zip 与adb.exe�
     
         <entry>
             <title type="text">设计模式之PHP单例模式</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/singleton-of-php-design-patterns/" />
-            <id>https://bio2o2o.github.io/posts/singleton-of-php-design-patterns/</id>
+            <link rel="alternate" type="text/html" href="/posts/singleton-of-php-design-patterns/" />
+            <id>/posts/singleton-of-php-design-patterns/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-05-14T23:30:38&#43;00:00</published>
             <author>
@@ -2787,7 +2787,7 @@ echo Singleton::getInstance()-&amp;gt;aa();&lt;/pre&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
+                                <category scheme="/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
                             
                         
                     
@@ -2799,8 +2799,8 @@ echo Singleton::getInstance()-&amp;gt;aa();&lt;/pre&gt;
     
         <entry>
             <title type="text">Mac 下Nginx的安装教程</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/install-nginx-server-on-mac-os-x/" />
-            <id>https://bio2o2o.github.io/posts/install-nginx-server-on-mac-os-x/</id>
+            <link rel="alternate" type="text/html" href="/posts/install-nginx-server-on-mac-os-x/" />
+            <id>/posts/install-nginx-server-on-mac-os-x/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-05-14T23:12:49&#43;00:00</published>
             <author>
@@ -2874,7 +2874,7 @@ nginx -s reload&lt;/pre&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
+                                <category scheme="/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
                             
                         
                     
@@ -2886,8 +2886,8 @@ nginx -s reload&lt;/pre&gt;
     
         <entry>
             <title type="text">Mac 下载安装Redis</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/install-redis-of-nosql-on-mac-os-x/" />
-            <id>https://bio2o2o.github.io/posts/install-redis-of-nosql-on-mac-os-x/</id>
+            <link rel="alternate" type="text/html" href="/posts/install-redis-of-nosql-on-mac-os-x/" />
+            <id>/posts/install-redis-of-nosql-on-mac-os-x/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-05-14T22:49:48&#43;00:00</published>
             <author>
@@ -2962,7 +2962,7 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
+                                <category scheme="/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
                             
                         
                     
@@ -2974,8 +2974,8 @@ echo $redis-&amp;gt;get(&#39;test&#39;);&lt;/pre&gt;
     
         <entry>
             <title type="text">Mac下安装MongoDB教程</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/mac-installing-mongodb-tutorial/" />
-            <id>https://bio2o2o.github.io/posts/mac-installing-mongodb-tutorial/</id>
+            <link rel="alternate" type="text/html" href="/posts/mac-installing-mongodb-tutorial/" />
+            <id>/posts/mac-installing-mongodb-tutorial/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-05-14T21:29:19&#43;00:00</published>
             <author>
@@ -3033,7 +3033,7 @@ $mongo = new Mongo(&#34;mongodb://localhost:27017&#34;,array(&#34;connect&#34;=&
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
+                                <category scheme="/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
                             
                         
                     
@@ -3043,7 +3043,7 @@ $mongo = new Mongo(&#34;mongodb://localhost:27017&#34;,array(&#34;connect&#34;=&
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/" term="数据库" label="数据库" />
+                                <category scheme="/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/" term="数据库" label="数据库" />
                             
                         
                     
@@ -3053,8 +3053,8 @@ $mongo = new Mongo(&#34;mongodb://localhost:27017&#34;,array(&#34;connect&#34;=&
     
         <entry>
             <title type="text">IOS 设备忘记root密码怎么找回</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/ios-recover-root-password/" />
-            <id>https://bio2o2o.github.io/posts/ios-recover-root-password/</id>
+            <link rel="alternate" type="text/html" href="/posts/ios-recover-root-password/" />
+            <id>/posts/ios-recover-root-password/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-02-24T18:02:06&#43;00:00</published>
             <author>
@@ -3095,7 +3095,7 @@ $mongo = new Mongo(&#34;mongodb://localhost:27017&#34;,array(&#34;connect&#34;=&
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/" term="移动设备" label="移动设备" />
+                                <category scheme="/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/" term="移动设备" label="移动设备" />
                             
                         
                     
@@ -3107,8 +3107,8 @@ $mongo = new Mongo(&#34;mongodb://localhost:27017&#34;,array(&#34;connect&#34;=&
     
         <entry>
             <title type="text">使用SSH通过USB操控IOS设备</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/ios-usb-control-var-ssh/" />
-            <id>https://bio2o2o.github.io/posts/ios-usb-control-var-ssh/</id>
+            <link rel="alternate" type="text/html" href="/posts/ios-usb-control-var-ssh/" />
+            <id>/posts/ios-usb-control-var-ssh/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-02-24T17:35:00&#43;00:00</published>
             <author>
@@ -3195,7 +3195,7 @@ lport 表示本地端口，iport 表示iPhone等IOS设备端口。
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/" term="移动设备" label="移动设备" />
+                                <category scheme="/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/" term="移动设备" label="移动设备" />
                             
                         
                     
@@ -3205,19 +3205,19 @@ lport 表示本地端口，iport 表示iPhone等IOS设备端口。
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/ios/" term="ios" label="ios" />
+                                <category scheme="/tags/ios/" term="ios" label="ios" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/iphone/" term="iPhone" label="iPhone" />
+                                <category scheme="/tags/iphone/" term="iPhone" label="iPhone" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/ssh/" term="SSH" label="SSH" />
+                                <category scheme="/tags/ssh/" term="SSH" label="SSH" />
                             
                         
                     
@@ -3227,8 +3227,8 @@ lport 表示本地端口，iport 表示iPhone等IOS设备端口。
     
         <entry>
             <title type="text">IOS 用Cydia安装软件 出现dpkg return code(1)</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/ios-dpkg-return-code1/" />
-            <id>https://bio2o2o.github.io/posts/ios-dpkg-return-code1/</id>
+            <link rel="alternate" type="text/html" href="/posts/ios-dpkg-return-code1/" />
+            <id>/posts/ios-dpkg-return-code1/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-02-24T16:01:00&#43;00:00</published>
             <author>
@@ -3260,7 +3260,7 @@ PS:
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/" term="移动设备" label="移动设备" />
+                                <category scheme="/categories/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87/" term="移动设备" label="移动设备" />
                             
                         
                     
@@ -3270,25 +3270,25 @@ PS:
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/cydia/" term="Cydia" label="Cydia" />
+                                <category scheme="/tags/cydia/" term="Cydia" label="Cydia" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/dpkg-return-code1/" term="dpkg return code(1)" label="dpkg return code(1)" />
+                                <category scheme="/tags/dpkg-return-code1/" term="dpkg return code(1)" label="dpkg return code(1)" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/ios/" term="ios" label="ios" />
+                                <category scheme="/tags/ios/" term="ios" label="ios" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/iphone/" term="iPhone" label="iPhone" />
+                                <category scheme="/tags/iphone/" term="iPhone" label="iPhone" />
                             
                         
                     
@@ -3298,8 +3298,8 @@ PS:
     
         <entry>
             <title type="text">Chrome 中文版字体最小限制</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/how-to-fix-samplifted-chinese-chrome-smallest-font-limit/" />
-            <id>https://bio2o2o.github.io/posts/how-to-fix-samplifted-chinese-chrome-smallest-font-limit/</id>
+            <link rel="alternate" type="text/html" href="/posts/how-to-fix-samplifted-chinese-chrome-smallest-font-limit/" />
+            <id>/posts/how-to-fix-samplifted-chinese-chrome-smallest-font-limit/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2013-02-24T14:59:00&#43;00:00</published>
             <author>
@@ -3335,7 +3335,7 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -3345,25 +3345,25 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/chrome/" term="Chrome" label="Chrome" />
+                                <category scheme="/tags/chrome/" term="Chrome" label="Chrome" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/chrome%E4%B8%AD%E6%96%87%E7%89%88/" term="Chrome中文版" label="Chrome中文版" />
+                                <category scheme="/tags/chrome%E4%B8%AD%E6%96%87%E7%89%88/" term="Chrome中文版" label="Chrome中文版" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/css/" term="css" label="css" />
+                                <category scheme="/tags/css/" term="css" label="css" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E5%AD%97%E4%BD%9312px/" term="字体12px" label="字体12px" />
+                                <category scheme="/tags/%E5%AD%97%E4%BD%9312px/" term="字体12px" label="字体12px" />
                             
                         
                     
@@ -3373,8 +3373,8 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
     
         <entry>
             <title type="text">解决goagent 翻墙 在mac os 下的证书错误问题</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/solved-ssl-error-of-goagent/" />
-            <id>https://bio2o2o.github.io/posts/solved-ssl-error-of-goagent/</id>
+            <link rel="alternate" type="text/html" href="/posts/solved-ssl-error-of-goagent/" />
+            <id>/posts/solved-ssl-error-of-goagent/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2012-04-30T15:43:38&#43;00:00</published>
             <author>
@@ -3410,7 +3410,7 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
+                                <category scheme="/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
                             
                         
                     
@@ -3420,37 +3420,37 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/facebook/" term="facebook" label="facebook" />
+                                <category scheme="/tags/facebook/" term="facebook" label="facebook" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/goagent/" term="goagent" label="goagent" />
+                                <category scheme="/tags/goagent/" term="goagent" label="goagent" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/mac-os-twitter/" term="mac os twitter" label="mac os twitter" />
+                                <category scheme="/tags/mac-os-twitter/" term="mac os twitter" label="mac os twitter" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/vpn/" term="vpn" label="vpn" />
+                                <category scheme="/tags/vpn/" term="vpn" label="vpn" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/youtube/" term="youtube" label="youtube" />
+                                <category scheme="/tags/youtube/" term="youtube" label="youtube" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E7%BF%BB%E5%A2%99/" term="翻墙" label="翻墙" />
+                                <category scheme="/tags/%E7%BF%BB%E5%A2%99/" term="翻墙" label="翻墙" />
                             
                         
                     
@@ -3460,8 +3460,8 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
     
         <entry>
             <title type="text">symfony 分页</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/symfony-pagnation/" />
-            <id>https://bio2o2o.github.io/posts/symfony-pagnation/</id>
+            <link rel="alternate" type="text/html" href="/posts/symfony-pagnation/" />
+            <id>/posts/symfony-pagnation/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2012-04-18T14:16:30&#43;00:00</published>
             <author>
@@ -3506,7 +3506,7 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -3518,8 +3518,8 @@ html{-webkit-text-size-adjust: none;} /&lt;em&gt;也可以用全局的，但是�
     
         <entry>
             <title type="text">symfony 测试数据的编写</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/symfony-how-to-create-test-data/" />
-            <id>https://bio2o2o.github.io/posts/symfony-how-to-create-test-data/</id>
+            <link rel="alternate" type="text/html" href="/posts/symfony-how-to-create-test-data/" />
+            <id>/posts/symfony-how-to-create-test-data/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2012-04-11T13:30:09&#43;00:00</published>
             <author>
@@ -3647,7 +3647,7 @@ author: { type: string(255), notnull: false }
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
+                                <category scheme="/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
                             
                         
                     
@@ -3659,8 +3659,8 @@ author: { type: string(255), notnull: false }
     
         <entry>
             <title type="text">zend studio 整合aptana</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/zend-studio-install-aptana-plugin-offline/" />
-            <id>https://bio2o2o.github.io/posts/zend-studio-install-aptana-plugin-offline/</id>
+            <link rel="alternate" type="text/html" href="/posts/zend-studio-install-aptana-plugin-offline/" />
+            <id>/posts/zend-studio-install-aptana-plugin-offline/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2012-04-07T11:50:28&#43;00:00</published>
             <author>
@@ -3725,7 +3725,7 @@ zend studio 9 与aptana 3离线整合的办法  首先打开：http://download.a
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -3737,8 +3737,8 @@ zend studio 9 与aptana 3离线整合的办法  首先打开：http://download.a
     
         <entry>
             <title type="text">symfony 之mod_rewrite配置</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/symfony-mod-rewrite-setting/" />
-            <id>https://bio2o2o.github.io/posts/symfony-mod-rewrite-setting/</id>
+            <link rel="alternate" type="text/html" href="/posts/symfony-mod-rewrite-setting/" />
+            <id>/posts/symfony-mod-rewrite-setting/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2012-04-05T15:29:56&#43;00:00</published>
             <author>
@@ -3817,8 +3817,8 @@ zend studio 9 与aptana 3离线整合的办法  首先打开：http://download.a
     
         <entry>
             <title type="text">symfony 环境配置</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/symfony-develop-env-setup/" />
-            <id>https://bio2o2o.github.io/posts/symfony-develop-env-setup/</id>
+            <link rel="alternate" type="text/html" href="/posts/symfony-develop-env-setup/" />
+            <id>/posts/symfony-develop-env-setup/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2012-04-04T15:17:32&#43;00:00</published>
             <author>
@@ -3897,8 +3897,8 @@ NameVirtualHost *:81
     
         <entry>
             <title type="text">如何让页面自适应大小</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/css-autosize-page/" />
-            <id>https://bio2o2o.github.io/posts/css-autosize-page/</id>
+            <link rel="alternate" type="text/html" href="/posts/css-autosize-page/" />
+            <id>/posts/css-autosize-page/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2012-02-21T20:45:32&#43;00:00</published>
             <author>
@@ -3985,7 +3985,7 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -3997,8 +3997,8 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
     
         <entry>
             <title type="text">解决英文版windows出现软件乱码问题</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/slove-garbled-of-windows-en-edition/" />
-            <id>https://bio2o2o.github.io/posts/slove-garbled-of-windows-en-edition/</id>
+            <link rel="alternate" type="text/html" href="/posts/slove-garbled-of-windows-en-edition/" />
+            <id>/posts/slove-garbled-of-windows-en-edition/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2011-11-07T10:50:00&#43;00:00</published>
             <author>
@@ -4057,7 +4057,7 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -4067,55 +4067,55 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/win-7/" term="win 7" label="win 7" />
+                                <category scheme="/tags/win-7/" term="win 7" label="win 7" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-xp/" term="windows xp" label="windows xp" />
+                                <category scheme="/tags/windows-xp/" term="windows xp" label="windows xp" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/xp/" term="xp" label="xp" />
+                                <category scheme="/tags/xp/" term="xp" label="xp" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E4%B9%B1%E7%A0%81/" term="乱码" label="乱码" />
+                                <category scheme="/tags/%E4%B9%B1%E7%A0%81/" term="乱码" label="乱码" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E7%B3%BB%E7%BB%9F/" term="系统" label="系统" />
+                                <category scheme="/tags/%E7%B3%BB%E7%BB%9F/" term="系统" label="系统" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E8%8B%B1%E6%96%87/" term="英文" label="英文" />
+                                <category scheme="/tags/%E8%8B%B1%E6%96%87/" term="英文" label="英文" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E8%8B%B1%E6%96%87%E7%89%88/" term="英文版" label="英文版" />
+                                <category scheme="/tags/%E8%8B%B1%E6%96%87%E7%89%88/" term="英文版" label="英文版" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E8%AE%BE%E7%BD%AE/" term="设置" label="设置" />
+                                <category scheme="/tags/%E8%AE%BE%E7%BD%AE/" term="设置" label="设置" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E9%85%8D%E7%BD%AE/" term="配置" label="配置" />
+                                <category scheme="/tags/%E9%85%8D%E7%BD%AE/" term="配置" label="配置" />
                             
                         
                     
@@ -4125,8 +4125,8 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
     
         <entry>
             <title type="text">ubuntu 下最好的wordpress 发布工具</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/ubuntu-wordpress-post-tool/" />
-            <id>https://bio2o2o.github.io/posts/ubuntu-wordpress-post-tool/</id>
+            <link rel="alternate" type="text/html" href="/posts/ubuntu-wordpress-post-tool/" />
+            <id>/posts/ubuntu-wordpress-post-tool/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2011-05-04T12:25:40&#43;00:00</published>
             <author>
@@ -4151,7 +4151,7 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
+                                <category scheme="/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
                             
                         
                     
@@ -4161,19 +4161,19 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/ubuntu/" term="ubuntu" label="ubuntu" />
+                                <category scheme="/tags/ubuntu/" term="ubuntu" label="ubuntu" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/wordpress/" term="wordpress" label="wordpress" />
+                                <category scheme="/tags/wordpress/" term="wordpress" label="wordpress" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/wordpress%E5%8F%91%E5%B8%83%E5%B7%A5%E5%85%B7/" term="wordpress发布工具" label="wordpress发布工具" />
+                                <category scheme="/tags/wordpress%E5%8F%91%E5%B8%83%E5%B7%A5%E5%85%B7/" term="wordpress发布工具" label="wordpress发布工具" />
                             
                         
                     
@@ -4183,8 +4183,8 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
     
         <entry>
             <title type="text">windows 8 已知builds(编译版本)列表及版本详解</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/windows-8-builds-list/" />
-            <id>https://bio2o2o.github.io/posts/windows-8-builds-list/</id>
+            <link rel="alternate" type="text/html" href="/posts/windows-8-builds-list/" />
+            <id>/posts/windows-8-builds-list/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2011-04-28T22:39:00&#43;00:00</published>
             <author>
@@ -4419,7 +4419,7 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -4429,43 +4429,43 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/milestone/" term="milestone" label="milestone" />
+                                <category scheme="/tags/milestone/" term="milestone" label="milestone" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/window-8-%E5%B7%B2%E6%B3%84%E9%9C%B2%E7%89%88%E6%9C%AC/" term="window 8 已泄露版本" label="window 8 已泄露版本" />
+                                <category scheme="/tags/window-8-%E5%B7%B2%E6%B3%84%E9%9C%B2%E7%89%88%E6%9C%AC/" term="window 8 已泄露版本" label="window 8 已泄露版本" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8/" term="windows 8" label="windows 8" />
+                                <category scheme="/tags/windows-8/" term="windows 8" label="windows 8" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8-beta/" term="windows 8 beta" label="windows 8 beta" />
+                                <category scheme="/tags/windows-8-beta/" term="windows 8 beta" label="windows 8 beta" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/" term="windows 8 更新日志" label="windows 8 更新日志" />
+                                <category scheme="/tags/windows-8-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/" term="windows 8 更新日志" label="windows 8 更新日志" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC/" term="windows 8最新版本" label="windows 8最新版本" />
+                                <category scheme="/tags/windows-8%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC/" term="windows 8最新版本" label="windows 8最新版本" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/window%E4%BC%A0%E8%A8%80/" term="window传言" label="window传言" />
+                                <category scheme="/tags/window%E4%BC%A0%E8%A8%80/" term="window传言" label="window传言" />
                             
                         
                     
@@ -4475,8 +4475,8 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
     
         <entry>
             <title type="text">如何开启windows 8的隐藏功能</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/windows-8-new-feather/" />
-            <id>https://bio2o2o.github.io/posts/windows-8-new-feather/</id>
+            <link rel="alternate" type="text/html" href="/posts/windows-8-new-feather/" />
+            <id>/posts/windows-8-new-feather/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2011-04-28T00:00:00&#43;00:00</published>
             <author>
@@ -4568,7 +4568,7 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -4578,37 +4578,37 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8/" term="windows 8" label="windows 8" />
+                                <category scheme="/tags/windows-8/" term="windows 8" label="windows 8" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8-m1-build-7850/" term="windows 8 M1 build 7850" label="windows 8 M1 build 7850" />
+                                <category scheme="/tags/windows-8-m1-build-7850/" term="windows 8 M1 build 7850" label="windows 8 M1 build 7850" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8-m2-build-7955/" term="windows 8 M2 build 7955" label="windows 8 M2 build 7955" />
+                                <category scheme="/tags/windows-8-m2-build-7955/" term="windows 8 M2 build 7955" label="windows 8 M2 build 7955" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8-milestone-2-7955.0.110228-1930/" term="Windows 8 Milestone-2 (7955.0.110228-1930)" label="Windows 8 Milestone-2 (7955.0.110228-1930)" />
+                                <category scheme="/tags/windows-8-milestone-2-7955.0.110228-1930/" term="Windows 8 Milestone-2 (7955.0.110228-1930)" label="Windows 8 Milestone-2 (7955.0.110228-1930)" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD/" term="windows 8隐藏功能" label="windows 8隐藏功能" />
+                                <category scheme="/tags/windows-8%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD/" term="windows 8隐藏功能" label="windows 8隐藏功能" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E5%BC%80%E5%90%AFwindows-8%E7%9A%84%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD/" term="开启windows 8的隐藏功能" label="开启windows 8的隐藏功能" />
+                                <category scheme="/tags/%E5%BC%80%E5%90%AFwindows-8%E7%9A%84%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD/" term="开启windows 8的隐藏功能" label="开启windows 8的隐藏功能" />
                             
                         
                     
@@ -4618,8 +4618,8 @@ content.style.width = (w-160) + &amp;ldquo;px&amp;rdquo;;&amp;gt;
     
         <entry>
             <title type="text">window 8 最新下载地址</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/window-8-last-download-link/" />
-            <id>https://bio2o2o.github.io/posts/window-8-last-download-link/</id>
+            <link rel="alternate" type="text/html" href="/posts/window-8-last-download-link/" />
+            <id>/posts/window-8-last-download-link/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2011-04-27T23:03:00&#43;00:00</published>
             <author>
@@ -4662,7 +4662,7 @@ MD5: 99375D7782027CBF2E70F5D0F8648406&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -4672,73 +4672,73 @@ MD5: 99375D7782027CBF2E70F5D0F8648406&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/6.2.7955.0.fbl_sev_wdacxml.110228-1930_x86fre_client-ultimate.iso/" term="6.2.7955.0.fbl_sev_wdacxml.110228-1930_x86fre_client-ultimate.iso" label="6.2.7955.0.fbl_sev_wdacxml.110228-1930_x86fre_client-ultimate.iso" />
+                                <category scheme="/tags/6.2.7955.0.fbl_sev_wdacxml.110228-1930_x86fre_client-ultimate.iso/" term="6.2.7955.0.fbl_sev_wdacxml.110228-1930_x86fre_client-ultimate.iso" label="6.2.7955.0.fbl_sev_wdacxml.110228-1930_x86fre_client-ultimate.iso" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/7955/" term="7955" label="7955" />
+                                <category scheme="/tags/7955/" term="7955" label="7955" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/7959/" term="7959" label="7959" />
+                                <category scheme="/tags/7959/" term="7959" label="7959" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/window-8-m2/" term="window 8 M2" label="window 8 M2" />
+                                <category scheme="/tags/window-8-m2/" term="window 8 M2" label="window 8 M2" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/window-8-%E4%B8%8B%E8%BD%BD/" term="window 8 下载" label="window 8 下载" />
+                                <category scheme="/tags/window-8-%E4%B8%8B%E8%BD%BD/" term="window 8 下载" label="window 8 下载" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8/" term="windows 8" label="windows 8" />
+                                <category scheme="/tags/windows-8/" term="windows 8" label="windows 8" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8-6.2.7959/" term="windows 8 6.2.7959" label="windows 8 6.2.7959" />
+                                <category scheme="/tags/windows-8-6.2.7959/" term="windows 8 6.2.7959" label="windows 8 6.2.7959" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8-6.2.7959%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/" term="windows 8 6.2.7959下载地址" label="windows 8 6.2.7959下载地址" />
+                                <category scheme="/tags/windows-8-6.2.7959%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/" term="windows 8 6.2.7959下载地址" label="windows 8 6.2.7959下载地址" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8-m1-build-7850/" term="windows 8 M1 build 7850" label="windows 8 M1 build 7850" />
+                                <category scheme="/tags/windows-8-m1-build-7850/" term="windows 8 M1 build 7850" label="windows 8 M1 build 7850" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8-m2-7955%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/" term="Windows 8 M2 7955下载地址" label="Windows 8 M2 7955下载地址" />
+                                <category scheme="/tags/windows-8-m2-7955%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/" term="Windows 8 M2 7955下载地址" label="Windows 8 M2 7955下载地址" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8-m2-build-7955/" term="windows 8 M2 build 7955" label="windows 8 M2 build 7955" />
+                                <category scheme="/tags/windows-8-m2-build-7955/" term="windows 8 M2 build 7955" label="windows 8 M2 build 7955" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows-8-milestone-2-7955.0.110228-1930/" term="Windows 8 Milestone-2 (7955.0.110228-1930)" label="Windows 8 Milestone-2 (7955.0.110228-1930)" />
+                                <category scheme="/tags/windows-8-milestone-2-7955.0.110228-1930/" term="Windows 8 Milestone-2 (7955.0.110228-1930)" label="Windows 8 Milestone-2 (7955.0.110228-1930)" />
                             
                         
                     
@@ -4748,8 +4748,8 @@ MD5: 99375D7782027CBF2E70F5D0F8648406&lt;/p&gt;
     
         <entry>
             <title type="text">最好用的作笔记工具myBase</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/best-note-tool-mybase/" />
-            <id>https://bio2o2o.github.io/posts/best-note-tool-mybase/</id>
+            <link rel="alternate" type="text/html" href="/posts/best-note-tool-mybase/" />
+            <id>/posts/best-note-tool-mybase/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2011-03-02T22:29:00&#43;00:00</published>
             <author>
@@ -4780,7 +4780,7 @@ myBase 5.51 汉化文件及注册机下载地址：&lt;a href=&#34;http://u.115.
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -4790,67 +4790,67 @@ myBase 5.51 汉化文件及注册机下载地址：&lt;a href=&#34;http://u.115.
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/mybase/" term="myBase" label="myBase" />
+                                <category scheme="/tags/mybase/" term="myBase" label="myBase" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E4%B8%8B%E8%BD%BD/" term="下载" label="下载" />
+                                <category scheme="/tags/%E4%B8%8B%E8%BD%BD/" term="下载" label="下载" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/" term="下载地址" label="下载地址" />
+                                <category scheme="/tags/%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/" term="下载地址" label="下载地址" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E4%BD%9C%E7%AC%94%E8%AE%B0/" term="作笔记" label="作笔记" />
+                                <category scheme="/tags/%E4%BD%9C%E7%AC%94%E8%AE%B0/" term="作笔记" label="作笔记" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E5%AE%98%E6%96%B9/" term="官方" label="官方" />
+                                <category scheme="/tags/%E5%AE%98%E6%96%B9/" term="官方" label="官方" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E5%B7%A5%E5%85%B7/" term="工具" label="工具" />
+                                <category scheme="/tags/%E5%B7%A5%E5%85%B7/" term="工具" label="工具" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%9C%80%E5%A5%BD/" term="最好" label="最好" />
+                                <category scheme="/tags/%E6%9C%80%E5%A5%BD/" term="最好" label="最好" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%B1%89%E5%8C%96/" term="汉化" label="汉化" />
+                                <category scheme="/tags/%E6%B1%89%E5%8C%96/" term="汉化" label="汉化" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%B1%89%E5%8C%96%E6%96%87%E4%BB%B6/" term="汉化文件" label="汉化文件" />
+                                <category scheme="/tags/%E6%B1%89%E5%8C%96%E6%96%87%E4%BB%B6/" term="汉化文件" label="汉化文件" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%B3%A8%E5%86%8C/" term="注册" label="注册" />
+                                <category scheme="/tags/%E6%B3%A8%E5%86%8C/" term="注册" label="注册" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%B3%A8%E5%86%8C%E6%9C%BA/" term="注册机" label="注册机" />
+                                <category scheme="/tags/%E6%B3%A8%E5%86%8C%E6%9C%BA/" term="注册机" label="注册机" />
                             
                         
                     
@@ -4860,8 +4860,8 @@ myBase 5.51 汉化文件及注册机下载地址：&lt;a href=&#34;http://u.115.
     
         <entry>
             <title type="text">最新php环境apache&#43;php&#43;mysql配置</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/how-to-install-apache-php-mysql-on-windows/" />
-            <id>https://bio2o2o.github.io/posts/how-to-install-apache-php-mysql-on-windows/</id>
+            <link rel="alternate" type="text/html" href="/posts/how-to-install-apache-php-mysql-on-windows/" />
+            <id>/posts/how-to-install-apache-php-mysql-on-windows/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2011-02-16T17:34:00&#43;00:00</published>
             <author>
@@ -5015,7 +5015,7 @@ mysql_close();    &lt;br&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
+                                <category scheme="/categories/linux%E7%B3%BB%E7%BB%9F/" term="Linux系统" label="Linux系统" />
                             
                         
                     
@@ -5025,43 +5025,43 @@ mysql_close();    &lt;br&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/apache-php-mysql/" term="apache&#43;php&#43;mysql" label="apache&#43;php&#43;mysql" />
+                                <category scheme="/tags/apache-php-mysql/" term="apache&#43;php&#43;mysql" label="apache&#43;php&#43;mysql" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/mysql/" term="mysql" label="mysql" />
+                                <category scheme="/tags/mysql/" term="mysql" label="mysql" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/php/" term="php" label="php" />
+                                <category scheme="/tags/php/" term="php" label="php" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/phpmyadmin/" term="phpMyAdmin" label="phpMyAdmin" />
+                                <category scheme="/tags/phpmyadmin/" term="phpMyAdmin" label="phpMyAdmin" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/" term="下载地址" label="下载地址" />
+                                <category scheme="/tags/%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/" term="下载地址" label="下载地址" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%9C%80%E6%96%B0/" term="最新" label="最新" />
+                                <category scheme="/tags/%E6%9C%80%E6%96%B0/" term="最新" label="最新" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%9C%80%E6%96%B0php%E7%8E%AF%E5%A2%83/" term="最新php环境" label="最新php环境" />
+                                <category scheme="/tags/%E6%9C%80%E6%96%B0php%E7%8E%AF%E5%A2%83/" term="最新php环境" label="最新php环境" />
                             
                         
                     
@@ -5071,8 +5071,8 @@ mysql_close();    &lt;br&gt;
     
         <entry>
             <title type="text">解决a disk read error occured  press ctrl&#43;alt&#43;alt to restart</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/solve-a-disk-read-occured/" />
-            <id>https://bio2o2o.github.io/posts/solve-a-disk-read-occured/</id>
+            <link rel="alternate" type="text/html" href="/posts/solve-a-disk-read-occured/" />
+            <id>/posts/solve-a-disk-read-occured/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2010-12-23T22:20:16&#43;00:00</published>
             <author>
@@ -5103,7 +5103,7 @@ mysql_close();    &lt;br&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -5113,19 +5113,19 @@ mysql_close();    &lt;br&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/a-disk-read-error-occured/" term="a disk read error occured" label="a disk read error occured" />
+                                <category scheme="/tags/a-disk-read-error-occured/" term="a disk read error occured" label="a disk read error occured" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/a-disk-read-error-occured-press-ctrl-alt-alt-to-restart%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/" term="a disk read error occured press ctrl&#43;alt&#43;alt to restart的解决方法" label="a disk read error occured press ctrl&#43;alt&#43;alt to restart的解决方法" />
+                                <category scheme="/tags/a-disk-read-error-occured-press-ctrl-alt-alt-to-restart%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/" term="a disk read error occured press ctrl&#43;alt&#43;alt to restart的解决方法" label="a disk read error occured press ctrl&#43;alt&#43;alt to restart的解决方法" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E8%A7%A3%E5%86%B3a-disk-read/" term="解决a disk read" label="解决a disk read" />
+                                <category scheme="/tags/%E8%A7%A3%E5%86%B3a-disk-read/" term="解决a disk read" label="解决a disk read" />
                             
                         
                     
@@ -5135,8 +5135,8 @@ mysql_close();    &lt;br&gt;
     
         <entry>
             <title type="text">wordpress更换域名及设置方法</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/wordpress-change-domain/" />
-            <id>https://bio2o2o.github.io/posts/wordpress-change-domain/</id>
+            <link rel="alternate" type="text/html" href="/posts/wordpress-change-domain/" />
+            <id>/posts/wordpress-change-domain/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2010-12-23T22:03:14&#43;00:00</published>
             <author>
@@ -5198,7 +5198,7 @@ exit();
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -5208,13 +5208,13 @@ exit();
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/wordpress%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E5%9F%9F%E5%90%8D/" term="wordpress如何更换域名" label="wordpress如何更换域名" />
+                                <category scheme="/tags/wordpress%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E5%9F%9F%E5%90%8D/" term="wordpress如何更换域名" label="wordpress如何更换域名" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/wordpress%E6%8D%A2%E5%9F%9F%E5%90%8D%E5%AE%8C%E7%BE%8E301%E9%87%8D%E5%AE%9A%E5%90%91/" term="wordpress换域名完美301重定向" label="wordpress换域名完美301重定向" />
+                                <category scheme="/tags/wordpress%E6%8D%A2%E5%9F%9F%E5%90%8D%E5%AE%8C%E7%BE%8E301%E9%87%8D%E5%AE%9A%E5%90%91/" term="wordpress换域名完美301重定向" label="wordpress换域名完美301重定向" />
                             
                         
                     
@@ -5224,8 +5224,8 @@ exit();
     
         <entry>
             <title type="text">firefox内存及资源优化</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/firefox-memory-optimization/" />
-            <id>https://bio2o2o.github.io/posts/firefox-memory-optimization/</id>
+            <link rel="alternate" type="text/html" href="/posts/firefox-memory-optimization/" />
+            <id>/posts/firefox-memory-optimization/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2010-12-23T21:43:00&#43;00:00</published>
             <author>
@@ -5286,7 +5286,7 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -5296,19 +5296,19 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/firefox/" term="firefox" label="firefox" />
+                                <category scheme="/tags/firefox/" term="firefox" label="firefox" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/firefox%E4%BC%98%E5%8C%96/" term="firefox优化" label="firefox优化" />
+                                <category scheme="/tags/firefox%E4%BC%98%E5%8C%96/" term="firefox优化" label="firefox优化" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/firefox%E5%86%85%E5%AD%98%E9%97%AE%E9%A2%98/" term="firefox内存问题" label="firefox内存问题" />
+                                <category scheme="/tags/firefox%E5%86%85%E5%AD%98%E9%97%AE%E9%A2%98/" term="firefox内存问题" label="firefox内存问题" />
                             
                         
                     
@@ -5318,8 +5318,8 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
     
         <entry>
             <title type="text">最新802.1xclient万能联想客户端下载</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/802-1xclient-last-down/" />
-            <id>https://bio2o2o.github.io/posts/802-1xclient-last-down/</id>
+            <link rel="alternate" type="text/html" href="/posts/802-1xclient-last-down/" />
+            <id>/posts/802-1xclient-last-down/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2010-12-17T14:09:00&#43;00:00</published>
             <author>
@@ -5346,7 +5346,7 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -5356,31 +5356,31 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/802.1xclient%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AFfor-linux/" term="802.1xclient联想客户端for linux" label="802.1xclient联想客户端for linux" />
+                                <category scheme="/tags/802.1xclient%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AFfor-linux/" term="802.1xclient联想客户端for linux" label="802.1xclient联想客户端for linux" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/802.1xclient%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AFfor-mac-os-x/" term="802.1xclient联想客户端for mac os x" label="802.1xclient联想客户端for mac os x" />
+                                <category scheme="/tags/802.1xclient%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AFfor-mac-os-x/" term="802.1xclient联想客户端for mac os x" label="802.1xclient联想客户端for mac os x" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%9C%80%E6%96%B0802.1xclient%E4%B8%8B%E8%BD%BD/" term="最新802.1xclient下载" label="最新802.1xclient下载" />
+                                <category scheme="/tags/%E6%9C%80%E6%96%B0802.1xclient%E4%B8%8B%E8%BD%BD/" term="最新802.1xclient下载" label="最新802.1xclient下载" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%9C%80%E6%96%B0%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD/" term="最新联想客户端下载" label="最新联想客户端下载" />
+                                <category scheme="/tags/%E6%9C%80%E6%96%B0%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD/" term="最新联想客户端下载" label="最新联想客户端下载" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AFfor-win-7-x64/" term="联想客户端for win 7 x64" label="联想客户端for win 7 x64" />
+                                <category scheme="/tags/%E8%81%94%E6%83%B3%E5%AE%A2%E6%88%B7%E7%AB%AFfor-win-7-x64/" term="联想客户端for win 7 x64" label="联想客户端for win 7 x64" />
                             
                         
                     
@@ -5390,8 +5390,8 @@ browser.cache.disk.capacity 磁盘缓存容量自己适当更改 &lt;br&gt;
     
         <entry>
             <title type="text">修改wordpress密码的最好办法</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/wordpress-move-host/" />
-            <id>https://bio2o2o.github.io/posts/wordpress-move-host/</id>
+            <link rel="alternate" type="text/html" href="/posts/wordpress-move-host/" />
+            <id>/posts/wordpress-move-host/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2010-12-14T11:50:16&#43;00:00</published>
             <author>
@@ -5451,7 +5451,7 @@ $link = $wpdb-&amp;gt;query($sql);</summary>
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -5461,25 +5461,25 @@ $link = $wpdb-&amp;gt;query($sql);</summary>
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/wordpress%E5%AF%86%E7%A0%81/" term="wordpress密码" label="wordpress密码" />
+                                <category scheme="/tags/wordpress%E5%AF%86%E7%A0%81/" term="wordpress密码" label="wordpress密码" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E4%BF%AE%E6%94%B9wordpress%E5%AF%86%E7%A0%81/" term="修改wordpress密码" label="修改wordpress密码" />
+                                <category scheme="/tags/%E4%BF%AE%E6%94%B9wordpress%E5%AF%86%E7%A0%81/" term="修改wordpress密码" label="修改wordpress密码" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E4%BF%AE%E6%94%B9wordpress%E5%AF%86%E7%A0%81%E6%BA%90%E7%A0%81/" term="修改wordpress密码源码" label="修改wordpress密码源码" />
+                                <category scheme="/tags/%E4%BF%AE%E6%94%B9wordpress%E5%AF%86%E7%A0%81%E6%BA%90%E7%A0%81/" term="修改wordpress密码源码" label="修改wordpress密码源码" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E4%BF%AE%E6%94%B9wordpress%E5%AF%86%E7%A0%81%E7%9A%84%E6%9C%80%E5%A5%BD%E5%8A%9E%E6%B3%95/" term="修改wordpress密码的最好办法" label="修改wordpress密码的最好办法" />
+                                <category scheme="/tags/%E4%BF%AE%E6%94%B9wordpress%E5%AF%86%E7%A0%81%E7%9A%84%E6%9C%80%E5%A5%BD%E5%8A%9E%E6%B3%95/" term="修改wordpress密码的最好办法" label="修改wordpress密码的最好办法" />
                             
                         
                     
@@ -5489,8 +5489,8 @@ $link = $wpdb-&amp;gt;query($sql);</summary>
     
         <entry>
             <title type="text">phpMyAdmin – 错误 无法在发生错误时创建会话，请检查 PHP 或网站服务器日志，并正确配置 PHP 安装。</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/phpmyadmin-2002-error/" />
-            <id>https://bio2o2o.github.io/posts/phpmyadmin-2002-error/</id>
+            <link rel="alternate" type="text/html" href="/posts/phpmyadmin-2002-error/" />
+            <id>/posts/phpmyadmin-2002-error/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2010-12-04T09:53:57&#43;00:00</published>
             <author>
@@ -5518,7 +5518,7 @@ $link = $wpdb-&amp;gt;query($sql);</summary>
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -5528,25 +5528,25 @@ $link = $wpdb-&amp;gt;query($sql);</summary>
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/phpmyadmin/" term="phpMyAdmin" label="phpMyAdmin" />
+                                <category scheme="/tags/phpmyadmin/" term="phpMyAdmin" label="phpMyAdmin" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/phpmyadmin%E9%94%99%E8%AF%AF/" term="phpMyAdmin错误" label="phpMyAdmin错误" />
+                                <category scheme="/tags/phpmyadmin%E9%94%99%E8%AF%AF/" term="phpMyAdmin错误" label="phpMyAdmin错误" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%97%A0%E6%B3%95%E5%9C%A8%E5%8F%91%E7%94%9F%E9%94%99%E8%AF%AF%E6%97%B6%E5%88%9B%E5%BB%BA%E4%BC%9A%E8%AF%9D/" term="无法在发生错误时创建会话" label="无法在发生错误时创建会话" />
+                                <category scheme="/tags/%E6%97%A0%E6%B3%95%E5%9C%A8%E5%8F%91%E7%94%9F%E9%94%99%E8%AF%AF%E6%97%B6%E5%88%9B%E5%BB%BA%E4%BC%9A%E8%AF%9D/" term="无法在发生错误时创建会话" label="无法在发生错误时创建会话" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E8%AF%B7%E6%A3%80%E6%9F%A5-php-%E6%88%96%E7%BD%91%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%97%A5%E5%BF%97/" term="请检查 PHP 或网站服务器日志" label="请检查 PHP 或网站服务器日志" />
+                                <category scheme="/tags/%E8%AF%B7%E6%A3%80%E6%9F%A5-php-%E6%88%96%E7%BD%91%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%97%A5%E5%BF%97/" term="请检查 PHP 或网站服务器日志" label="请检查 PHP 或网站服务器日志" />
                             
                         
                     
@@ -5556,8 +5556,8 @@ $link = $wpdb-&amp;gt;query($sql);</summary>
     
         <entry>
             <title type="text">最好用的硬盘分区工具，Acronis Disk Director Suite下载</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/best-disk-tool-for-windows/" />
-            <id>https://bio2o2o.github.io/posts/best-disk-tool-for-windows/</id>
+            <link rel="alternate" type="text/html" href="/posts/best-disk-tool-for-windows/" />
+            <id>/posts/best-disk-tool-for-windows/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2010-11-16T17:11:53&#43;00:00</published>
             <author>
@@ -5655,7 +5655,7 @@ Acronis Disk Director 使用教程 安装我就不用多讲了。这个软件安
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -5665,31 +5665,31 @@ Acronis Disk Director 使用教程 安装我就不用多讲了。这个软件安
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/acronis-disk-director-suite%E4%B8%8B%E8%BD%BD/" term="Acronis Disk Director Suite下载" label="Acronis Disk Director Suite下载" />
+                                <category scheme="/tags/acronis-disk-director-suite%E4%B8%8B%E8%BD%BD/" term="Acronis Disk Director Suite下载" label="Acronis Disk Director Suite下载" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/acronis-disk-director-suite%E6%B3%A8%E5%86%8C%E7%A0%81/" term="Acronis Disk Director Suite注册码" label="Acronis Disk Director Suite注册码" />
+                                <category scheme="/tags/acronis-disk-director-suite%E6%B3%A8%E5%86%8C%E7%A0%81/" term="Acronis Disk Director Suite注册码" label="Acronis Disk Director Suite注册码" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/acronis-disk-director-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/" term="Acronis Disk Director 使用教程" label="Acronis Disk Director 使用教程" />
+                                <category scheme="/tags/acronis-disk-director-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/" term="Acronis Disk Director 使用教程" label="Acronis Disk Director 使用教程" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E7%A1%AC%E7%9B%98%E5%88%86%E5%8C%BA%E5%B7%A5%E5%85%B7/" term="最好用的硬盘分区工具" label="最好用的硬盘分区工具" />
+                                <category scheme="/tags/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E7%A1%AC%E7%9B%98%E5%88%86%E5%8C%BA%E5%B7%A5%E5%85%B7/" term="最好用的硬盘分区工具" label="最好用的硬盘分区工具" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%B3%A8%E5%86%8C%E6%9C%BA/" term="注册机" label="注册机" />
+                                <category scheme="/tags/%E6%B3%A8%E5%86%8C%E6%9C%BA/" term="注册机" label="注册机" />
                             
                         
                     
@@ -5699,8 +5699,8 @@ Acronis Disk Director 使用教程 安装我就不用多讲了。这个软件安
     
         <entry>
             <title type="text">域名记录详解 DNS记录详解 免费域名解析服务推荐</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/dns-record-detail/" />
-            <id>https://bio2o2o.github.io/posts/dns-record-detail/</id>
+            <link rel="alternate" type="text/html" href="/posts/dns-record-detail/" />
+            <id>/posts/dns-record-detail/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2010-11-14T11:06:35&#43;00:00</published>
             <author>
@@ -5754,7 +5754,7 @@ Jim IN TXT &amp;quot;contact: &lt;a href=&#34;mailto:abc@mailserver.com&#34;&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -5764,43 +5764,43 @@ Jim IN TXT &amp;quot;contact: &lt;a href=&#34;mailto:abc@mailserver.com&#34;&gt;
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/dns%E8%AE%B0%E5%BD%95/" term="dns记录" label="dns记录" />
+                                <category scheme="/tags/dns%E8%AE%B0%E5%BD%95/" term="dns记录" label="dns记录" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/" term="免费域名" label="免费域名" />
+                                <category scheme="/tags/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/" term="免费域名" label="免费域名" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E5%9F%9F%E5%90%8D/" term="域名" label="域名" />
+                                <category scheme="/tags/%E5%9F%9F%E5%90%8D/" term="域名" label="域名" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E6%9C%8D%E5%8A%A1/" term="域名解析服务" label="域名解析服务" />
+                                <category scheme="/tags/%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E6%9C%8D%E5%8A%A1/" term="域名解析服务" label="域名解析服务" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E5%9F%9F%E5%90%8D%E8%AE%B0%E5%BD%95/" term="域名记录" label="域名记录" />
+                                <category scheme="/tags/%E5%9F%9F%E5%90%8D%E8%AE%B0%E5%BD%95/" term="域名记录" label="域名记录" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E5%AD%90%E5%9F%9F%E5%90%8D/" term="子域名" label="子域名" />
+                                <category scheme="/tags/%E5%AD%90%E5%9F%9F%E5%90%8D/" term="子域名" label="子域名" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E6%8E%A8%E8%8D%90/" term="推荐" label="推荐" />
+                                <category scheme="/tags/%E6%8E%A8%E8%8D%90/" term="推荐" label="推荐" />
                             
                         
                     
@@ -5810,8 +5810,8 @@ Jim IN TXT &amp;quot;contact: &lt;a href=&#34;mailto:abc@mailserver.com&#34;&gt;
     
         <entry>
             <title type="text">常用快捷键</title>
-            <link rel="alternate" type="text/html" href="https://bio2o2o.github.io/posts/key-map-for-windows/" />
-            <id>https://bio2o2o.github.io/posts/key-map-for-windows/</id>
+            <link rel="alternate" type="text/html" href="/posts/key-map-for-windows/" />
+            <id>/posts/key-map-for-windows/</id>
             <updated>2020-07-27T19:40:38&#43;08:00</updated>
             <published>2010-11-13T12:44:28&#43;00:00</published>
             <author>
@@ -5930,7 +5930,7 @@ CTRL+INSERT 或 CTRL+C 复制被选择的项目到剪贴板</summary>
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
+                                <category scheme="/categories/%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB/" term="笔记分享" label="笔记分享" />
                             
                         
                     
@@ -5940,19 +5940,19 @@ CTRL+INSERT 或 CTRL+C 复制被选择的项目到剪贴板</summary>
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/windows7/" term="windows7" label="windows7" />
+                                <category scheme="/tags/windows7/" term="windows7" label="windows7" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E5%B8%B8%E7%94%A8/" term="常用" label="常用" />
+                                <category scheme="/tags/%E5%B8%B8%E7%94%A8/" term="常用" label="常用" />
                             
                         
                             
                             
                             
-                                <category scheme="https://bio2o2o.github.io/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/" term="快捷键" label="快捷键" />
+                                <category scheme="/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/" term="快捷键" label="快捷键" />
                             
                         
                     
